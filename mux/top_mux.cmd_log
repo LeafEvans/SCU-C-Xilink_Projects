@@ -1,0 +1,25 @@
+sch2sym -intstyle ise -family kintex7 -refsym top_mux C:/Xilink_Project/mux/top_mux.sch C:/Xilink_Project/mux/top_mux.sym 
+sch2sym -intstyle ise -family kintex7 -refsym top_mux C:/Xilink_Project/mux/top_mux.sch C:/Xilink_Project/mux/top_mux.sym 
+sch2sym -intstyle ise -family kintex7 -refsym top_mux C:/Xilink_Project/mux/top_mux.sch C:/Xilink_Project/mux/top_mux.sym 
+xst -intstyle ise -ifn "C:/Xilink_Project/mux/top_mux.xst" -ofn "C:/Xilink_Project/mux/top_mux.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -bm buf8.bmm -p xc7k325t-ffg676-1 top_mux.ngc top_mux.ngd  
+map -intstyle ise -p xc7k325t-ffg676-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o top_mux_map.ncd top_mux.ngd top_mux.pcf 
+par -w -intstyle ise -ol high -mt off top_mux_map.ncd top_mux.ncd top_mux.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml top_mux.twx top_mux.ncd -o top_mux.twr top_mux.pcf 
+sch2sym -intstyle ise -family kintex7 -w -refsym top_mux C:/Xilink_Project/mux/top_mux.sch C:/Xilink_Project/mux/top_mux.sym 
+sch2sym -intstyle ise -family kintex7 -w -refsym top_mux C:/Xilink_Project/mux/top_mux.sch C:/Xilink_Project/mux/top_mux.sym 
+sch2sym -intstyle ise -family kintex7 -w -refsym top_mux C:/Xilink_Project/mux/top_mux.sch C:/Xilink_Project/mux/top_mux.sym 
+sch2sym -intstyle ise -family kintex7 -w -refsym top_mux C:/Xilink_Project/mux/top_mux.sch C:/Xilink_Project/mux/top_mux.sym 
+sch2sym -intstyle ise -family kintex7 -w -refsym top_mux C:/Xilink_Project/mux/top_mux.sch C:/Xilink_Project/mux/top_mux.sym 
+sch2sym -intstyle ise -family kintex7 -w -refsym top_mux C:/Xilink_Project/mux/top_mux.sch C:/Xilink_Project/mux/top_mux.sym 
+sch2sym -intstyle ise -family kintex7 -w -refsym top_mux C:/Xilink_Project/mux/top_mux.sch C:/Xilink_Project/mux/top_mux.sym 
+sch2sym -intstyle ise -family kintex7 -w -refsym top_mux C:/Xilink_Project/mux/top_mux.sch C:/Xilink_Project/mux/top_mux.sym 
+sch2hdl -intstyle ise -family kintex7 -verilog top_mux_drc.vf -w C:/Xilink_Project/mux/top_mux.sch 
+sch2sym -intstyle ise -family kintex7 -w -refsym top_mux C:/Xilink_Project/mux/top_mux.sch C:/Xilink_Project/mux/top_mux.sym 
+xst -intstyle ise -ifn "C:/Xilink_Project/mux/top_mux.xst" -ofn "C:/Xilink_Project/mux/top_mux.syr" 
+xst -intstyle ise -ifn "C:/Xilink_Project/mux/top_mux.xst" -ofn "C:/Xilink_Project/mux/top_mux.syr" 
+xst -intstyle ise -ifn "C:/Xilink_Project/mux/top_mux.xst" -ofn "C:/Xilink_Project/mux/top_mux.syr" 
+sch2sym -intstyle ise -family kintex7 -w -refsym top_mux C:/Xilink_Project/mux/top_mux.sch C:/Xilink_Project/mux/top_mux.sym 
+xst -intstyle ise -ifn "C:/Xilink_Project/mux/top_mux.xst" -ofn "C:/Xilink_Project/mux/top_mux.syr" 
+sch2sym -intstyle ise -family kintex7 -w -refsym top_mux C:/Xilink_Project/mux/top_mux.sch C:/Xilink_Project/mux/top_mux.sym 
+xst -intstyle ise -ifn "C:/Xilink_Project/mux/top_mux.xst" -ofn "C:/Xilink_Project/mux/top_mux.syr" 

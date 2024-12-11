@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Xilink_Projects/Sseg7/SSeg7_Dev.xst" -ofn "C:/Xilink_Projects/Sseg7/SSeg7_Dev.syr" 
+sch2sym -intstyle ise -family kintex7 -refsym SSeg7_Dev C:/Xilink_Projects/Sseg7/SSeg7_Dev.sch C:/Xilink_Projects/Sseg7/SSeg7_Dev.sym 

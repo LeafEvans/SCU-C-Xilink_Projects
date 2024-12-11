@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Xilink_Project/adder_4bits/adder_4bits.xst" -ofn "C:/Xilink_Project/adder_4bits/adder_4bits.syr" 

@@ -1,0 +1,9 @@
+sch2hdl,-intstyle,ise,-family,kintex7,-verilog,C:/Xilink_Project/mux/mux2t1.vf,-w,C:/Xilink_Project/mux/mux2t1.sch
+sch2hdl,-intstyle,ise,-family,kintex7,-verilog,C:/Xilink_Project/mux/mux2t1_4.vf,-w,C:/Xilink_Project/mux/mux2t1_4.sch
+sch2hdl,-intstyle,ise,-family,kintex7,-verilog,C:/Xilink_Project/mux/mux8t1_4.vf,-w,C:/Xilink_Project/mux/mux8t1_4.sch
+sch2hdl,-intstyle,ise,-family,kintex7,-verilog,C:/Xilink_Project/mux/mux8t1_8.vf,-w,C:/Xilink_Project/mux/mux8t1_8.sch
+sch2hdl,-intstyle,ise,-family,kintex7,-verilog,C:/Xilink_Project/mux/top_mux.vf,-w,C:/Xilink_Project/mux/top_mux.sch
+sch2hdl,-intstyle,ise,-family,kintex7,-verilog,C:/Xilink_Project/mux/mux2t1_4.vf,-w,C:/Xilink_Project/mux/mux2t1_4.sch
+sch2hdl,-intstyle,ise,-family,kintex7,-verilog,C:/Xilink_Project/mux/mux8t1_4.vf,-w,C:/Xilink_Project/mux/mux8t1_4.sch
+sch2hdl,-intstyle,ise,-family,kintex7,-verilog,C:/Xilink_Project/mux/mux8t1_8.vf,-w,C:/Xilink_Project/mux/mux8t1_8.sch
+sch2hdl,-intstyle,ise,-family,kintex7,-verilog,C:/Xilink_Project/mux/top_mux.vf,-w,C:/Xilink_Project/mux/top_mux.sch

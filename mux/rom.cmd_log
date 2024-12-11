@@ -1,0 +1,6 @@
+vhdtdtfi -lib work C:/Xilink_Project/mux/rom.v -lang verilog -prj mux -o rom.spl -module rom -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 rom.spl C:/Xilink_Project/mux/rom.sym 
+vhdtdtfi -lib work C:/Xilink_Project/mux/rom.v -lang verilog -prj mux -o rom.spl -module rom -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 rom.spl C:/Xilink_Project/mux/rom.sym 
+vhdtdtfi -lib work C:/Xilink_Project/mux/rom.v -lang verilog -prj mux -o rom.spl -module rom -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 -w rom.spl C:/Xilink_Project/mux/rom.sym 

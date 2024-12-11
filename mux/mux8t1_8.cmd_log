@@ -1,0 +1,7 @@
+sch2sym -intstyle ise -family kintex7 -refsym mux8t1_8 C:/Xilink_Project/mux/mux8t1_8.sch C:/Xilink_Project/mux/mux8t1_8.sym 
+xst -intstyle ise -ifn "C:/Xilink_Project/mux/mux8t1_8.xst" -ofn "C:/Xilink_Project/mux/mux8t1_8.syr" 
+sch2sym -intstyle ise -family kintex7 -w -refsym mux8t1_8 C:/Xilink_Project/mux/mux8t1_8.sch C:/Xilink_Project/mux/mux8t1_8.sym 
+sch2sym -intstyle ise -family kintex7 -w -refsym mux8t1_8 C:/Xilink_Project/mux/mux8t1_8.sch C:/Xilink_Project/mux/mux8t1_8.sym 
+sch2sym -intstyle ise -family kintex7 -w -refsym mux8t1_8 C:/Xilink_Project/mux/mux8t1_8.sch C:/Xilink_Project/mux/mux8t1_8.sym 
+sch2sym -intstyle ise -family kintex7 -w -refsym mux8t1_8 C:/Xilink_Project/mux/mux8t1_8.sch C:/Xilink_Project/mux/mux8t1_8.sym 
+sch2sym -intstyle ise -family kintex7 -w -refsym mux8t1_8 C:/Xilink_Project/mux/mux8t1_8.sch C:/Xilink_Project/mux/mux8t1_8.sym 

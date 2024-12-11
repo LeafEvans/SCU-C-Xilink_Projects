@@ -1,0 +1,5 @@
+sch2sym -intstyle ise -family kintex7 -refsym Seg7_Dev C:/Xilink_Projects/Sseg7/code/Seg7_Dev.sch C:/Xilink_Projects/Sseg7/Seg7_Dev.sym 
+sch2sym -intstyle ise -family kintex7 -refsym Seg7_Dev C:/Xilink_Projects/Sseg7/code/Seg7_Dev.sch C:/Xilink_Projects/Sseg7/Seg7_Dev.sym 
+sch2sym -intstyle ise -family kintex7 -refsym Seg7_Dev C:/Xilink_Projects/Sseg7/code/Seg7_Dev.sch C:/Xilink_Projects/Sseg7/Seg7_Dev.sym 
+sch2sym -intstyle ise -family kintex7 -refsym Seg7_Dev C:/Xilink_Projects/Sseg7/code/Seg7_Dev.sch C:/Xilink_Projects/Sseg7/Seg7_Dev.sym 
+sch2sym -intstyle ise -family kintex7 -refsym Seg7_Dev C:/Xilink_Projects/Sseg7/code/Seg7_Dev.sch C:/Xilink_Projects/Sseg7/Seg7_Dev.sym 

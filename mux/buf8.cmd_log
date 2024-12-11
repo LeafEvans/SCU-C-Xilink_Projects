@@ -1,0 +1,4 @@
+vhdtdtfi -lib work C:/Xilink_Project/mux/buf8.v -lang verilog -prj mux -o buf8.spl -module buf8 -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 buf8.spl C:/Xilink_Project/mux/buf8.sym 
+vhdtdtfi -lib work C:/Xilink_Project/mux/buf8.v -lang verilog -prj mux -o buf8.spl -module buf8 -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 -w buf8.spl C:/Xilink_Project/mux/buf8.sym 

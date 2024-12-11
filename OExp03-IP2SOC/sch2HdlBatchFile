@@ -1,0 +1,1 @@
+sch2hdl,-sympath,C:/Xilink_Project/OExp03-IP2SOC/Code/IO,-sympath,C:/Xilink_Project/OExp03-IP2SOC/ipcore_dir,-sympath,C:/Xilink_Project/OExp03-IP2SOC/Code/CPU,-sympath,C:/Xilink_Project/OExp03-IP2SOC/Code/ngc,-intstyle,ise,-family,kintex7,-verilog,C:/Xilink_Project/OExp03-IP2SOC/OExp03_IP2SOC.vf,-w,C:/Xilink_Project/OExp03-IP2SOC/Code/OExp03_IP2SOC.sch

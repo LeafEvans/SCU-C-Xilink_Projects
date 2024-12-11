@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Xilink_Project/adder_4bits/adder_4bits_tb_isim_beh.exe" -prj "C:/Xilink_Project/adder_4bits/adder_4bits_tb_beh.prj" "work.adder_4bits_tb" "work.glbl" 

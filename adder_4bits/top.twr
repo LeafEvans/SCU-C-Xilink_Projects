@@ -1,0 +1,122 @@
+--------------------------------------------------------------------------------
+Release 14.7 Trace  (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\trce.exe -intstyle ise -v 3 -s 1
+-n 3 -fastpaths -xml top.twx top.ncd -o top.twr top.pcf -ucf myucf.ucf
+
+Design file:              top.ncd
+Physical constraint file: top.pcf
+Device,package,speed:     xc7k325t,ffg676,C,-1 (PRODUCTION 1.10 2013-10-13)
+Report level:             verbose report
+
+Environment Variable      Effect 
+--------------------      ------ 
+NONE                      No environment variables were set
+--------------------------------------------------------------------------------
+
+INFO:Timing:2698 - No timing constraints found, doing default enumeration.
+INFO:Timing:3412 - To improve timing, see the Timing Closure User Guide (UG612).
+INFO:Timing:2752 - To get complete path coverage, use the unconstrained paths 
+   option. All paths that are not constrained will be reported in the 
+   unconstrained paths section(s) of the report.
+INFO:Timing:3339 - The clock-to-out numbers in this timing report are based on 
+   a 50 Ohm transmission line loading model.  For the details of this model, 
+   and for more information on accounting for different loading conditions, 
+   please see the device datasheet.
+
+
+
+Data Sheet report:
+-----------------
+All values displayed in nanoseconds (ns)
+
+Setup/Hold to clock clk200N
+------------+------------+------------+------------+------------+------------------+--------+
+            |Max Setup to|  Process   |Max Hold to |  Process   |                  | Clock  |
+Source      | clk (edge) |   Corner   | clk (edge) |   Corner   |Internal Clock(s) | Phase  |
+------------+------------+------------+------------+------------+------------------+--------+
+RSTN        |    6.167(R)|      SLOW  |   -2.074(R)|      FAST  |U2/Clk_100M       |   0.000|
+a<0>        |    6.183(R)|      SLOW  |   -1.353(R)|      FAST  |U2/Clk_100M       |   0.000|
+a<1>        |    5.980(R)|      SLOW  |   -1.326(R)|      FAST  |U2/Clk_100M       |   0.000|
+a<2>        |    5.526(R)|      SLOW  |   -1.322(R)|      FAST  |U2/Clk_100M       |   0.000|
+a<3>        |    5.658(R)|      SLOW  |   -1.371(R)|      FAST  |U2/Clk_100M       |   0.000|
+b<0>        |    6.372(R)|      SLOW  |   -1.431(R)|      FAST  |U2/Clk_100M       |   0.000|
+b<1>        |    6.119(R)|      SLOW  |   -1.426(R)|      FAST  |U2/Clk_100M       |   0.000|
+b<2>        |    5.749(R)|      SLOW  |   -1.319(R)|      FAST  |U2/Clk_100M       |   0.000|
+b<3>        |    5.678(R)|      SLOW  |   -1.342(R)|      FAST  |U2/Clk_100M       |   0.000|
+------------+------------+------------+------------+------------+------------------+--------+
+
+Setup/Hold to clock clk200P
+------------+------------+------------+------------+------------+------------------+--------+
+            |Max Setup to|  Process   |Max Hold to |  Process   |                  | Clock  |
+Source      | clk (edge) |   Corner   | clk (edge) |   Corner   |Internal Clock(s) | Phase  |
+------------+------------+------------+------------+------------+------------------+--------+
+RSTN        |    6.167(R)|      SLOW  |   -2.074(R)|      FAST  |U2/Clk_100M       |   0.000|
+a<0>        |    6.183(R)|      SLOW  |   -1.353(R)|      FAST  |U2/Clk_100M       |   0.000|
+a<1>        |    5.980(R)|      SLOW  |   -1.326(R)|      FAST  |U2/Clk_100M       |   0.000|
+a<2>        |    5.526(R)|      SLOW  |   -1.322(R)|      FAST  |U2/Clk_100M       |   0.000|
+a<3>        |    5.658(R)|      SLOW  |   -1.371(R)|      FAST  |U2/Clk_100M       |   0.000|
+b<0>        |    6.372(R)|      SLOW  |   -1.431(R)|      FAST  |U2/Clk_100M       |   0.000|
+b<1>        |    6.119(R)|      SLOW  |   -1.426(R)|      FAST  |U2/Clk_100M       |   0.000|
+b<2>        |    5.749(R)|      SLOW  |   -1.319(R)|      FAST  |U2/Clk_100M       |   0.000|
+b<3>        |    5.678(R)|      SLOW  |   -1.342(R)|      FAST  |U2/Clk_100M       |   0.000|
+------------+------------+------------+------------+------------+------------------+--------+
+
+Clock clk200N to Pad
+------------+-----------------+------------+-----------------+------------+------------------+--------+
+            |Max (slowest) clk|  Process   |Min (fastest) clk|  Process   |                  | Clock  |
+Destination |  (edge) to PAD  |   Corner   |  (edge) to PAD  |   Corner   |Internal Clock(s) | Phase  |
+------------+-----------------+------------+-----------------+------------+------------------+--------+
+LEDCLK      |         6.042(R)|      SLOW  |         2.787(R)|      FAST  |U2/Clk_100M       |   0.000|
+LEDDT       |         5.388(R)|      SLOW  |         2.522(R)|      FAST  |U2/Clk_100M       |   0.000|
+------------+-----------------+------------+-----------------+------------+------------------+--------+
+
+Clock clk200P to Pad
+------------+-----------------+------------+-----------------+------------+------------------+--------+
+            |Max (slowest) clk|  Process   |Min (fastest) clk|  Process   |                  | Clock  |
+Destination |  (edge) to PAD  |   Corner   |  (edge) to PAD  |   Corner   |Internal Clock(s) | Phase  |
+------------+-----------------+------------+-----------------+------------+------------------+--------+
+LEDCLK      |         6.042(R)|      SLOW  |         2.787(R)|      FAST  |U2/Clk_100M       |   0.000|
+LEDDT       |         5.388(R)|      SLOW  |         2.522(R)|      FAST  |U2/Clk_100M       |   0.000|
+------------+-----------------+------------+-----------------+------------+------------------+--------+
+
+Clock to Setup on destination clock clk200N
+---------------+---------+---------+---------+---------+
+               | Src:Rise| Src:Fall| Src:Rise| Src:Fall|
+Source Clock   |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
+---------------+---------+---------+---------+---------+
+clk200N        |    1.376|         |         |         |
+clk200P        |    1.376|         |         |         |
+---------------+---------+---------+---------+---------+
+
+Clock to Setup on destination clock clk200P
+---------------+---------+---------+---------+---------+
+               | Src:Rise| Src:Fall| Src:Rise| Src:Fall|
+Source Clock   |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
+---------------+---------+---------+---------+---------+
+clk200N        |    1.376|         |         |         |
+clk200P        |    1.376|         |         |         |
+---------------+---------+---------+---------+---------+
+
+Pad to Pad
+---------------+---------------+---------+
+Source Pad     |Destination Pad|  Delay  |
+---------------+---------------+---------+
+RSTN           |LEDCLR         |   10.559|
+clk200N        |LEDCLK         |    5.896|
+clk200P        |LEDCLK         |    5.896|
+---------------+---------------+---------+
+
+
+Analysis completed Thu Nov 14 20:27:47 2024 
+--------------------------------------------------------------------------------
+
+Trace Settings:
+-------------------------
+Trace Settings 
+
+Peak Memory Usage: 5277 MB
+
+
+

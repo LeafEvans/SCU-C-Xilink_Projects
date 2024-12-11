@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=C:\Xilink_Project\OExp03-IP2SOC\impact.xsl
+OUTFILE=C:\Xilink_Project\OExp03-IP2SOC\impact.xsl
+FAMILY=Single
+PART=Single
+WORKINGDIR=C:\Xilink_Project\OExp03-IP2SOC
+LICENSE=iMPACT
+USER_INFO=iMPACT

@@ -1,0 +1,2 @@
+ISim log file
+Running: C:\Xilink_Project\adder_4bits\adder_4bits_tb_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Xilink_Project/adder_4bits/adder_4bits_tb_isim_beh.wdb 
