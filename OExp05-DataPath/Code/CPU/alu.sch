@@ -30,7 +30,7 @@
         <port polarity="Output" name="overflow" />
         <port polarity="Output" name="Co" />
         <blockdef name="and32">
-            <timestamp>2014-3-19T13:28:2</timestamp>
+            <timestamp>2022-12-4T14:7:58</timestamp>
             <line x2="32" y1="-96" y2="-96" style="linewidth:W" x1="64" />
             <line x2="28" y1="-32" y2="-32" style="linewidth:W" x1="64" />
             <line x2="64" y1="-16" y2="-16" x1="144" />
@@ -145,9 +145,9 @@
             <blockpin signalname="B(31:0)" name="B(31:0)" />
         </block>
         <block symbolname="and32" name="ALU_U1">
-            <blockpin signalname="XLXN_22(31:0)" name="res(31:0)" />
             <blockpin signalname="A(31:0)" name="A(31:0)" />
             <blockpin signalname="B(31:0)" name="B(31:0)" />
+            <blockpin signalname="XLXN_22(31:0)" name="res(31:0)" />
         </block>
         <block symbolname="xor32" name="ALU_U3">
             <blockpin signalname="A(31:0)" name="A(31:0)" />

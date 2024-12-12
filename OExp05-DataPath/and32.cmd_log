@@ -1,0 +1,2 @@
+vhdtdtfi -lib work C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/common/and32.v -lang verilog -prj OExp05-DataPath -o and32.spl -module and32 -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family kintex7 and32.spl C:/Users/SCUOP/Desktop/project/OExp05-DataPath/and32.sym 

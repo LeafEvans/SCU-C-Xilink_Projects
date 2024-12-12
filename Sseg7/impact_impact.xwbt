@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=C:\SCU\SCU-Xilink_Projects\Sseg7\impact.xsl
+OUTFILE=C:\SCU\SCU-Xilink_Projects\Sseg7\impact.xsl
+FAMILY=Single
+PART=Single
+WORKINGDIR=C:\SCU\SCU-Xilink_Projects\Sseg7
+LICENSE=iMPACT
+USER_INFO=iMPACT

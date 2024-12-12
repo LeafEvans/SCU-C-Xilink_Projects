@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2024-12-08T17:04:47</DateModified>
+  <DateModified>2024-12-12T14:34:52</DateModified>
   <ModuleName>OExp03_IP2SOC</ModuleName>
   <SummaryTimeStamp>2018-03-14T10:43:10</SummaryTimeStamp>
-  <SavedFilePath>C:/Xilink_Project/OExp03-IP2SOC/iseconfig/OExp03_IP2SOC.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>C:/Xilink_Project/OExp03-IP2SOC\</ImplementationReportsDirectory>
+  <SavedFilePath>C:/SCU/SCU-Xilink_Projects/OExp03-IP2SOC/iseconfig/OExp03_IP2SOC.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>C:/SCU/SCU-Xilink_Projects/OExp03-IP2SOC\</ImplementationReportsDirectory>
   <DateInitialized>2017-04-26T14:17:01</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

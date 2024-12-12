@@ -1,8 +1,8 @@
 INTSTYLE=ise
-INFILE=C:\Xilink_Projects\Sseg7\Sseg7.ncd
-OUTFILE=C:\Xilink_Projects\Sseg7\Sseg7.bit
+INFILE=C:\SCU\SCU-Xilink_Projects\Sseg7\Sseg7.ncd
+OUTFILE=C:\SCU\SCU-Xilink_Projects\Sseg7\Sseg7.bit
 FAMILY=Kintex7
 PART=xc7k325t-2lffg676
-WORKINGDIR=C:\Xilink_Projects\Sseg7
+WORKINGDIR=C:\SCU\SCU-Xilink_Projects\Sseg7
 LICENSE=ISE
 USER_INFO=__0_0_0

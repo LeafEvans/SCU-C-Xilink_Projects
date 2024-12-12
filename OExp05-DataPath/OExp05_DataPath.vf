@@ -7,11 +7,11 @@
 // \   \   \/     Version : 14.7
 //  \   \         Application : sch2hdl
 //  /   /         Filename : OExp05_DataPath.vf
-// /___/   /\     Timestamp : 12/11/2024 14:38:15
+// /___/   /\     Timestamp : 12/12/2024 14:49:31
 // \   \  /  \ 
 //  \___\/\___\ 
 //
-//Command: sch2hdl -sympath C:/Xilink_Project/OExp05-DataPath/Code/CPU -sympath C:/Xilink_Project/OExp05-DataPath/Code/IO -sympath C:/Xilink_Project/OExp05-DataPath/ipcore_dir -intstyle ise -family kintex7 -verilog C:/Xilink_Project/OExp05-DataPath/OExp05_DataPath.vf -w C:/Xilink_Project/OExp05-DataPath/Code/OExp05_DataPath.sch
+//Command: sch2hdl -sympath C:/SCU/SCU-Xilink_Projects/OExp05-DataPath/Code/CPU -sympath C:/SCU/SCU-Xilink_Projects/OExp05-DataPath/Code/IO -sympath C:/SCU/SCU-Xilink_Projects/OExp05-DataPath/ipcore_dir -intstyle ise -family kintex7 -verilog C:/SCU/SCU-Xilink_Projects/OExp05-DataPath/OExp05_DataPath.vf -w C:/SCU/SCU-Xilink_Projects/OExp05-DataPath/Code/OExp05_DataPath.sch
 //Design Name: OExp05_DataPath
 //Device: kintex7
 //Purpose:
@@ -110,6 +110,17 @@ module OExp05_DataPath(clk200N,
                    .Bi(Bi[31:0]), 
                    .blink(blink[7:0]), 
                    .readn(readn_DUMMY));
+   SCPU  U1 (.clk(Clk_CPU), 
+            .Data_in(Data_in[31:0]), 
+            .inst_in(inst[31:0]), 
+            .INT(XLXN_579), 
+            .MIO_ready(), 
+            .reset(rst), 
+            .Addr_out(Addr_out[31:0]), 
+            .CPU_MIO(), 
+            .Data_out(Data_out[31:0]), 
+            .mem_w(XLXN_544), 
+            .PC_out(PC[31:0]));
    ROM_D  U2 (.a(PC[11:2]), 
              .spo(inst[31:0]));
    RAM_B  U3 (.addra(XLXN_558[9:0]), 
@@ -233,15 +244,4 @@ module OExp05_DataPath(clk200N,
    GND  XLXI_2 (.G(N0));
    INV  XLXI_72 (.I(Clk_CPU), 
                 .O(IO_clk));
-   SCPU  XLXI_73 (.clk(Clk_CPU), 
-                 .Data_in(Data_in[31:0]), 
-                 .inst_in(inst[31:0]), 
-                 .INT(XLXN_579), 
-                 .MIO_ready(), 
-                 .reset(rst), 
-                 .Addr_out(Addr_out[31:0]), 
-                 .CPU_MIO(), 
-                 .Data_out(Data_out[31:0]), 
-                 .mem_w(XLXN_544), 
-                 .PC_out(PC[31:0]));
 endmodule

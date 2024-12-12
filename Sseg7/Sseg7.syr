@@ -4,13 +4,13 @@ Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
 
 
 Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.13 secs
+Total CPU time to Xst completion: 0.29 secs
  
 --> Parameter xsthdpdir set to xst
 
 
 Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.14 secs
+Total CPU time to Xst completion: 0.29 secs
  
 --> Reading design: Sseg7.prj
 
@@ -108,47 +108,47 @@ Cores Search Directories           : {"code" "ipcore_dir"  }
 =========================================================================
 *                          HDL Parsing                                  *
 =========================================================================
-Analyzing Verilog file "C:\Xilink_Projects\Sseg7\MC14495_ZJU.vf" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\Sseg7\MC14495_ZJU.vf" into library work
 Parsing module <MC14495_ZJU>.
-Analyzing Verilog file "C:\Xilink_Projects\Sseg7\code\SSeg_map.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\Sseg7\code\SSeg_map.v" into library work
 Parsing module <SSeg_map>.
-Analyzing Verilog file "C:\Xilink_Projects\Sseg7\code\Seg_map.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\Sseg7\code\Seg_map.v" into library work
 Parsing module <Seg_map>.
-Analyzing Verilog file "C:\Xilink_Projects\Sseg7\code\ScanSync.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\Sseg7\code\ScanSync.v" into library work
 Parsing module <ScanSync>.
-Analyzing Verilog file "C:\Xilink_Projects\Sseg7\code\P2S_IO.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\Sseg7\code\P2S_IO.v" into library work
 Parsing module <P2S>.
-Analyzing Verilog file "C:\Xilink_Projects\Sseg7\code\MUX2T1_8.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\Sseg7\code\MUX2T1_8.v" into library work
 Parsing module <MUX2T1_8>.
-Analyzing Verilog file "C:\Xilink_Projects\Sseg7\code\MUX2T1_64.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\Sseg7\code\MUX2T1_64.v" into library work
 Parsing module <MUX2T1_64>.
-Analyzing Verilog file "C:\Xilink_Projects\Sseg7\code\LED_P2S_IO.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\Sseg7\code\LED_P2S_IO.v" into library work
 Parsing module <LED_P2S>.
-Analyzing Verilog file "C:\Xilink_Projects\Sseg7\code\HexTo8SEG.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\Sseg7\code\HexTo8SEG.v" into library work
 Parsing module <HexTo8SEG>.
 Parsing module <Hex2Seg>.
-Analyzing Verilog file "C:\Xilink_Projects\Sseg7\SSeg7_Dev.vf" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\Sseg7\SSeg7_Dev.vf" into library work
 Parsing module <SSeg7_Dev>.
-Analyzing Verilog file "C:\Xilink_Projects\Sseg7\ipcore_dir\ROM_D.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\Sseg7\ipcore_dir\ROM_D.v" into library work
 Parsing module <ROM_D>.
-Analyzing Verilog file "C:\Xilink_Projects\Sseg7\ipcore_dir\RAM_B.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\Sseg7\ipcore_dir\RAM_B.v" into library work
 Parsing module <RAM_B>.
-Analyzing Verilog file "C:\Xilink_Projects\Sseg7\code\SPIO.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\Sseg7\code\SPIO.v" into library work
 Parsing module <SPIO>.
-Analyzing Verilog file "C:\Xilink_Projects\Sseg7\code\SEnter_2_32_IO.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\Sseg7\code\SEnter_2_32_IO.v" into library work
 Parsing module <SEnter_2_32>.
-Analyzing Verilog file "C:\Xilink_Projects\Sseg7\Seg7_Dev.vf" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\Sseg7\Seg7_Dev.vf" into library work
 Parsing module <MC14495_ZJU_MUSER_Seg7_Dev>.
 Parsing module <Seg7_Dev>.
-Analyzing Verilog file "C:\Xilink_Projects\Sseg7\code\SAnti_jitter_IO.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\Sseg7\code\SAnti_jitter_IO.v" into library work
 Parsing module <SAnti_jitter>.
-Analyzing Verilog file "C:\Xilink_Projects\Sseg7\code\PIO.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\Sseg7\code\PIO.v" into library work
 Parsing module <PIO>.
-Analyzing Verilog file "C:\Xilink_Projects\Sseg7\code\Multi_8CH32_IO.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\Sseg7\code\Multi_8CH32_IO.v" into library work
 Parsing module <Multi_8CH32>.
-Analyzing Verilog file "C:\Xilink_Projects\Sseg7\code\clkdiv.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\Sseg7\code\clkdiv.v" into library work
 Parsing module <clkdiv>.
-Analyzing Verilog file "C:\Xilink_Projects\Sseg7\Sseg7.vf" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\Sseg7\Sseg7.vf" into library work
 Parsing module <SSeg7_Dev_MUSER_Sseg7>.
 Parsing module <Sseg7>.
 
@@ -159,22 +159,22 @@ Parsing module <Sseg7>.
 Elaborating module <Sseg7>.
 
 Elaborating module <SEnter_2_32>.
-WARNING:HDLCompiler:1499 - "C:\Xilink_Projects\Sseg7\code\SEnter_2_32_IO.v" Line 21: Empty module <SEnter_2_32> remains a black box.
-WARNING:HDLCompiler:1127 - "C:\Xilink_Projects\Sseg7\Sseg7.vf" Line 157: Assignment to blink ignored, since the identifier is never used
+WARNING:HDLCompiler:1499 - "C:\SCU\SCU-Xilink_Projects\Sseg7\code\SEnter_2_32_IO.v" Line 21: Empty module <SEnter_2_32> remains a black box.
+WARNING:HDLCompiler:1127 - "C:\SCU\SCU-Xilink_Projects\Sseg7\Sseg7.vf" Line 157: Assignment to blink ignored, since the identifier is never used
 
 Elaborating module <ROM_D>.
-WARNING:HDLCompiler:1499 - "C:\Xilink_Projects\Sseg7\ipcore_dir\ROM_D.v" Line 39: Empty module <ROM_D> remains a black box.
+WARNING:HDLCompiler:1499 - "C:\SCU\SCU-Xilink_Projects\Sseg7\ipcore_dir\ROM_D.v" Line 39: Empty module <ROM_D> remains a black box.
 
 Elaborating module <RAM_B>.
-WARNING:HDLCompiler:1499 - "C:\Xilink_Projects\Sseg7\ipcore_dir\RAM_B.v" Line 39: Empty module <RAM_B> remains a black box.
+WARNING:HDLCompiler:1499 - "C:\SCU\SCU-Xilink_Projects\Sseg7\ipcore_dir\RAM_B.v" Line 39: Empty module <RAM_B> remains a black box.
 
 Elaborating module <Multi_8CH32>.
-WARNING:HDLCompiler:1499 - "C:\Xilink_Projects\Sseg7\code\Multi_8CH32_IO.v" Line 21: Empty module <Multi_8CH32> remains a black box.
+WARNING:HDLCompiler:1499 - "C:\SCU\SCU-Xilink_Projects\Sseg7\code\Multi_8CH32_IO.v" Line 21: Empty module <Multi_8CH32> remains a black box.
 
 Elaborating module <SSeg7_Dev_MUSER_Sseg7>.
 
 Elaborating module <P2S>.
-WARNING:HDLCompiler:1499 - "C:\Xilink_Projects\Sseg7\code\P2S_IO.v" Line 21: Empty module <P2S> remains a black box.
+WARNING:HDLCompiler:1499 - "C:\SCU\SCU-Xilink_Projects\Sseg7\code\P2S_IO.v" Line 21: Empty module <P2S> remains a black box.
 
 Elaborating module <HexTo8SEG>.
 
@@ -199,21 +199,21 @@ Elaborating module <OR2>.
 Elaborating module <SSeg_map>.
 
 Elaborating module <MUX2T1_64>.
-WARNING:HDLCompiler:1127 - "C:\Xilink_Projects\Sseg7\Sseg7.vf" Line 192: Assignment to XLXN_57 ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\SCU\SCU-Xilink_Projects\Sseg7\Sseg7.vf" Line 192: Assignment to XLXN_57 ignored, since the identifier is never used
 
 Elaborating module <SPIO>.
 
 Elaborating module <LED_P2S(DATA_BITS=16,DATA_COUNT_BITS=4)>.
-WARNING:HDLCompiler:1499 - "C:\Xilink_Projects\Sseg7\code\LED_P2S_IO.v" Line 21: Empty module <LED_P2S(DATA_BITS=16,DATA_COUNT_BITS=4)> remains a black box.
-WARNING:HDLCompiler:1127 - "C:\Xilink_Projects\Sseg7\Sseg7.vf" Line 205: Assignment to XLXN_43 ignored, since the identifier is never used
+WARNING:HDLCompiler:1499 - "C:\SCU\SCU-Xilink_Projects\Sseg7\code\LED_P2S_IO.v" Line 21: Empty module <LED_P2S(DATA_BITS=16,DATA_COUNT_BITS=4)> remains a black box.
+WARNING:HDLCompiler:1127 - "C:\SCU\SCU-Xilink_Projects\Sseg7\Sseg7.vf" Line 205: Assignment to XLXN_43 ignored, since the identifier is never used
 
 Elaborating module <clkdiv>.
 
 Elaborating module <IBUFDS>.
 
 Elaborating module <SAnti_jitter>.
-WARNING:HDLCompiler:1499 - "C:\Xilink_Projects\Sseg7\code\SAnti_jitter_IO.v" Line 21: Empty module <SAnti_jitter> remains a black box.
-WARNING:HDLCompiler:1127 - "C:\Xilink_Projects\Sseg7\Sseg7.vf" Line 222: Assignment to Pulse ignored, since the identifier is never used
+WARNING:HDLCompiler:1499 - "C:\SCU\SCU-Xilink_Projects\Sseg7\code\SAnti_jitter_IO.v" Line 21: Empty module <SAnti_jitter> remains a black box.
+WARNING:HDLCompiler:1127 - "C:\SCU\SCU-Xilink_Projects\Sseg7\Sseg7.vf" Line 222: Assignment to Pulse ignored, since the identifier is never used
 
 Elaborating module <Seg7_Dev>.
 
@@ -226,41 +226,41 @@ Elaborating module <ScanSync>.
 Elaborating module <Seg_map>.
 
 Elaborating module <VCC>.
-WARNING:HDLCompiler:1127 - "C:\Xilink_Projects\Sseg7\Seg7_Dev.vf" Line 300: Assignment to V5 ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\SCU\SCU-Xilink_Projects\Sseg7\Seg7_Dev.vf" Line 300: Assignment to V5 ignored, since the identifier is never used
 
 Elaborating module <GND>.
-WARNING:HDLCompiler:1127 - "C:\Xilink_Projects\Sseg7\Seg7_Dev.vf" Line 301: Assignment to G0 ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\SCU\SCU-Xilink_Projects\Sseg7\Seg7_Dev.vf" Line 301: Assignment to G0 ignored, since the identifier is never used
 
 Elaborating module <PIO>.
 
 Elaborating module <BUF>.
-WARNING:HDLCompiler:634 - "C:\Xilink_Projects\Sseg7\Sseg7.vf" Line 120: Net <Disp_num[31]> does not have a driver.
-WARNING:HDLCompiler:634 - "C:\Xilink_Projects\Sseg7\Sseg7.vf" Line 122: Net <LES[63]> does not have a driver.
-WARNING:HDLCompiler:634 - "C:\Xilink_Projects\Sseg7\Sseg7.vf" Line 123: Net <LE_out[7]> does not have a driver.
-WARNING:HDLCompiler:634 - "C:\Xilink_Projects\Sseg7\Sseg7.vf" Line 124: Net <M0> does not have a driver.
-WARNING:HDLCompiler:634 - "C:\Xilink_Projects\Sseg7\Sseg7.vf" Line 126: Net <point_out[7]> does not have a driver.
-WARNING:HDLCompiler:634 - "C:\Xilink_Projects\Sseg7\Sseg7.vf" Line 134: Net <XLXN_40> does not have a driver.
-WARNING:HDLCompiler:634 - "C:\Xilink_Projects\Sseg7\Sseg7.vf" Line 135: Net <XLXN_42[31]> does not have a driver.
-WARNING:HDLCompiler:634 - "C:\Xilink_Projects\Sseg7\Sseg7.vf" Line 141: Net <XLXN_95[31]> does not have a driver.
-WARNING:HDLCompiler:634 - "C:\Xilink_Projects\Sseg7\Sseg7.vf" Line 142: Net <XLXN_96[31]> does not have a driver.
-WARNING:HDLCompiler:634 - "C:\Xilink_Projects\Sseg7\Sseg7.vf" Line 143: Net <XLXN_97[31]> does not have a driver.
-WARNING:HDLCompiler:552 - "C:\Xilink_Projects\Sseg7\Sseg7.vf" Line 161: Input port wea[0] is not connected on this instance
+WARNING:HDLCompiler:634 - "C:\SCU\SCU-Xilink_Projects\Sseg7\Sseg7.vf" Line 120: Net <Disp_num[31]> does not have a driver.
+WARNING:HDLCompiler:634 - "C:\SCU\SCU-Xilink_Projects\Sseg7\Sseg7.vf" Line 122: Net <LES[63]> does not have a driver.
+WARNING:HDLCompiler:634 - "C:\SCU\SCU-Xilink_Projects\Sseg7\Sseg7.vf" Line 123: Net <LE_out[7]> does not have a driver.
+WARNING:HDLCompiler:634 - "C:\SCU\SCU-Xilink_Projects\Sseg7\Sseg7.vf" Line 124: Net <M0> does not have a driver.
+WARNING:HDLCompiler:634 - "C:\SCU\SCU-Xilink_Projects\Sseg7\Sseg7.vf" Line 126: Net <point_out[7]> does not have a driver.
+WARNING:HDLCompiler:634 - "C:\SCU\SCU-Xilink_Projects\Sseg7\Sseg7.vf" Line 134: Net <XLXN_40> does not have a driver.
+WARNING:HDLCompiler:634 - "C:\SCU\SCU-Xilink_Projects\Sseg7\Sseg7.vf" Line 135: Net <XLXN_42[31]> does not have a driver.
+WARNING:HDLCompiler:634 - "C:\SCU\SCU-Xilink_Projects\Sseg7\Sseg7.vf" Line 141: Net <XLXN_95[31]> does not have a driver.
+WARNING:HDLCompiler:634 - "C:\SCU\SCU-Xilink_Projects\Sseg7\Sseg7.vf" Line 142: Net <XLXN_96[31]> does not have a driver.
+WARNING:HDLCompiler:634 - "C:\SCU\SCU-Xilink_Projects\Sseg7\Sseg7.vf" Line 143: Net <XLXN_97[31]> does not have a driver.
+WARNING:HDLCompiler:552 - "C:\SCU\SCU-Xilink_Projects\Sseg7\Sseg7.vf" Line 161: Input port wea[0] is not connected on this instance
 
 =========================================================================
 *                           HDL Synthesis                               *
 =========================================================================
 
 Synthesizing Unit <Sseg7>.
-    Related source file is "C:\Xilink_Projects\Sseg7\Sseg7.vf".
-INFO:Xst:3210 - "C:\Xilink_Projects\Sseg7\Sseg7.vf" line 150: Output port <blink> of the instance <M4> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "C:\Xilink_Projects\Sseg7\Sseg7.vf" line 183: Output port <seg_clrn> of the instance <U6> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "C:\Xilink_Projects\Sseg7\Sseg7.vf" line 195: Output port <counter_set> of the instance <U7> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "C:\Xilink_Projects\Sseg7\Sseg7.vf" line 195: Output port <LED_out> of the instance <U7> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "C:\Xilink_Projects\Sseg7\Sseg7.vf" line 195: Output port <GPIOf0> of the instance <U7> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "C:\Xilink_Projects\Sseg7\Sseg7.vf" line 195: Output port <LED_PEN> of the instance <U7> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "C:\Xilink_Projects\Sseg7\Sseg7.vf" line 212: Output port <pulse_out> of the instance <U9> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "C:\Xilink_Projects\Sseg7\Sseg7.vf" line 233: Output port <counter_set> of the instance <U71> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "C:\Xilink_Projects\Sseg7\Sseg7.vf" line 233: Output port <GPIOf0> of the instance <U71> is unconnected or connected to loadless signal.
+    Related source file is "C:\SCU\SCU-Xilink_Projects\Sseg7\Sseg7.vf".
+INFO:Xst:3210 - "C:\SCU\SCU-Xilink_Projects\Sseg7\Sseg7.vf" line 150: Output port <blink> of the instance <M4> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\SCU\SCU-Xilink_Projects\Sseg7\Sseg7.vf" line 183: Output port <seg_clrn> of the instance <U6> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\SCU\SCU-Xilink_Projects\Sseg7\Sseg7.vf" line 195: Output port <counter_set> of the instance <U7> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\SCU\SCU-Xilink_Projects\Sseg7\Sseg7.vf" line 195: Output port <LED_out> of the instance <U7> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\SCU\SCU-Xilink_Projects\Sseg7\Sseg7.vf" line 195: Output port <GPIOf0> of the instance <U7> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\SCU\SCU-Xilink_Projects\Sseg7\Sseg7.vf" line 195: Output port <LED_PEN> of the instance <U7> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\SCU\SCU-Xilink_Projects\Sseg7\Sseg7.vf" line 212: Output port <pulse_out> of the instance <U9> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\SCU\SCU-Xilink_Projects\Sseg7\Sseg7.vf" line 233: Output port <counter_set> of the instance <U71> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\SCU\SCU-Xilink_Projects\Sseg7\Sseg7.vf" line 233: Output port <GPIOf0> of the instance <U71> is unconnected or connected to loadless signal.
 WARNING:Xst:653 - Signal <Disp_num> is used but never assigned. This sourceless signal will be automatically connected to value GND.
 WARNING:Xst:653 - Signal <LES> is used but never assigned. This sourceless signal will be automatically connected to value GND.
 WARNING:Xst:653 - Signal <LE_out> is used but never assigned. This sourceless signal will be automatically connected to value GND.
@@ -276,44 +276,44 @@ WARNING:Xst:653 - Signal <XLXN_40> is used but never assigned. This sourceless s
 Unit <Sseg7> synthesized.
 
 Synthesizing Unit <SSeg7_Dev_MUSER_Sseg7>.
-    Related source file is "C:\Xilink_Projects\Sseg7\Sseg7.vf".
+    Related source file is "C:\SCU\SCU-Xilink_Projects\Sseg7\Sseg7.vf".
     Summary:
 	no macro.
 Unit <SSeg7_Dev_MUSER_Sseg7> synthesized.
 
 Synthesizing Unit <HexTo8SEG>.
-    Related source file is "C:\Xilink_Projects\Sseg7\code\HexTo8SEG.v".
+    Related source file is "C:\SCU\SCU-Xilink_Projects\Sseg7\code\HexTo8SEG.v".
     Summary:
 	no macro.
 Unit <HexTo8SEG> synthesized.
 
 Synthesizing Unit <Hex2Seg>.
-    Related source file is "C:\Xilink_Projects\Sseg7\code\HexTo8SEG.v".
+    Related source file is "C:\SCU\SCU-Xilink_Projects\Sseg7\code\HexTo8SEG.v".
     Summary:
 	no macro.
 Unit <Hex2Seg> synthesized.
 
 Synthesizing Unit <MC14495_ZJU>.
-    Related source file is "C:\Xilink_Projects\Sseg7\MC14495_ZJU.vf".
+    Related source file is "C:\SCU\SCU-Xilink_Projects\Sseg7\MC14495_ZJU.vf".
     Summary:
 	no macro.
 Unit <MC14495_ZJU> synthesized.
 
 Synthesizing Unit <SSeg_map>.
-    Related source file is "C:\Xilink_Projects\Sseg7\code\SSeg_map.v".
+    Related source file is "C:\SCU\SCU-Xilink_Projects\Sseg7\code\SSeg_map.v".
 WARNING:Xst:647 - Input <Disp_num<63:32>> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
     Summary:
 	no macro.
 Unit <SSeg_map> synthesized.
 
 Synthesizing Unit <MUX2T1_64>.
-    Related source file is "C:\Xilink_Projects\Sseg7\code\MUX2T1_64.v".
+    Related source file is "C:\SCU\SCU-Xilink_Projects\Sseg7\code\MUX2T1_64.v".
     Summary:
 	inferred   1 Multiplexer(s).
 Unit <MUX2T1_64> synthesized.
 
 Synthesizing Unit <SPIO>.
-    Related source file is "C:\Xilink_Projects\Sseg7\code\SPIO.v".
+    Related source file is "C:\SCU\SCU-Xilink_Projects\Sseg7\code\SPIO.v".
     Found 2-bit register for signal <counter_set>.
     Found 16-bit register for signal <LED>.
     Found 14-bit register for signal <GPIOf0>.
@@ -322,7 +322,7 @@ Synthesizing Unit <SPIO>.
 Unit <SPIO> synthesized.
 
 Synthesizing Unit <clkdiv>.
-    Related source file is "C:\Xilink_Projects\Sseg7\code\clkdiv.v".
+    Related source file is "C:\SCU\SCU-Xilink_Projects\Sseg7\code\clkdiv.v".
     Found 32-bit register for signal <clkdiv>.
     Found 32-bit adder for signal <clkdiv[31]_GND_23_o_add_0_OUT> created at line 36.
     Summary:
@@ -331,38 +331,38 @@ Synthesizing Unit <clkdiv>.
 Unit <clkdiv> synthesized.
 
 Synthesizing Unit <Seg7_Dev>.
-    Related source file is "C:\Xilink_Projects\Sseg7\Seg7_Dev.vf".
+    Related source file is "C:\SCU\SCU-Xilink_Projects\Sseg7\Seg7_Dev.vf".
     Summary:
 	no macro.
 Unit <Seg7_Dev> synthesized.
 
 Synthesizing Unit <MUX2T1_8>.
-    Related source file is "C:\Xilink_Projects\Sseg7\code\MUX2T1_8.v".
+    Related source file is "C:\SCU\SCU-Xilink_Projects\Sseg7\code\MUX2T1_8.v".
     Summary:
 	inferred   1 Multiplexer(s).
 Unit <MUX2T1_8> synthesized.
 
 Synthesizing Unit <MC14495_ZJU_MUSER_Seg7_Dev>.
-    Related source file is "C:\Xilink_Projects\Sseg7\Seg7_Dev.vf".
+    Related source file is "C:\SCU\SCU-Xilink_Projects\Sseg7\Seg7_Dev.vf".
     Summary:
 	no macro.
 Unit <MC14495_ZJU_MUSER_Seg7_Dev> synthesized.
 
 Synthesizing Unit <ScanSync>.
-    Related source file is "C:\Xilink_Projects\Sseg7\code\ScanSync.v".
+    Related source file is "C:\SCU\SCU-Xilink_Projects\Sseg7\code\ScanSync.v".
     Found 8x4-bit Read Only RAM for signal <AN>
     Summary:
 	inferred   1 RAM(s).
 Unit <ScanSync> synthesized.
 
 Synthesizing Unit <Seg_map>.
-    Related source file is "C:\Xilink_Projects\Sseg7\code\Seg_map.v".
+    Related source file is "C:\SCU\SCU-Xilink_Projects\Sseg7\code\Seg_map.v".
     Summary:
 	no macro.
 Unit <Seg_map> synthesized.
 
 Synthesizing Unit <PIO>.
-    Related source file is "C:\Xilink_Projects\Sseg7\code\PIO.v".
+    Related source file is "C:\SCU\SCU-Xilink_Projects\Sseg7\code\PIO.v".
     Found 2-bit register for signal <counter_set>.
     Found 8-bit register for signal <LED>.
     Found 22-bit register for signal <GPIOf0>.
@@ -963,12 +963,12 @@ clk200P        |    1.551|         |         |         |
 =========================================================================
 
 
-Total REAL time to Xst completion: 8.00 secs
-Total CPU time to Xst completion: 8.42 secs
+Total REAL time to Xst completion: 19.00 secs
+Total CPU time to Xst completion: 19.23 secs
  
 --> 
 
-Total memory usage is 4635044 kilobytes
+Total memory usage is 4634924 kilobytes
 
 Number of errors   :    0 (   0 filtered)
 Number of warnings :   87 (   0 filtered)

@@ -7,11 +7,11 @@
 // \   \   \/     Version : 14.7
 //  \   \         Application : sch2hdl
 //  /   /         Filename : alu.vf
-// /___/   /\     Timestamp : 03/10/2018 00:45:50
+// /___/   /\     Timestamp : 12/12/2024 10:46:56
 // \   \  /  \ 
 //  \___\/\___\ 
 //
-//Command: sch2hdl -sympath D:/FPGA_work/ORGV40/OExp05-DataPath/Code/CPU -sympath D:/FPGA_work/ORGV40/OExp05-DataPath/Code/IO -sympath D:/FPGA_work/ORGV40/OExp05-DataPath/ipcore_dir -intstyle ise -family kintex7 -verilog D:/FPGA_work/ORGV40/OExp05-DataPath/alu.vf -w D:/FPGA_work/ORGV40/OExp05-DataPath/Code/CPU/alu.sch
+//Command: sch2hdl -sympath E:/x/5/Code/CPU -sympath E:/x/5/Code/IO -sympath E:/x/5/ipcore_dir -intstyle ise -family kintex7 -verilog E:/x/5/alu.vf -w E:/x/5/Code/CPU/alu.sch
 //Design Name: alu
 //Device: kintex7
 //Purpose:

@@ -4,13 +4,13 @@ Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
 
 
 Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.52 secs
+Total CPU time to Xst completion: 0.11 secs
  
 --> Parameter xsthdpdir set to xst
 
 
 Total REAL time to Xst completion: 0.00 secs
-Total CPU time to Xst completion: 0.52 secs
+Total CPU time to Xst completion: 0.11 secs
  
 --> Reading design: OExp05_DataPath.prj
 
@@ -108,73 +108,73 @@ Cores Search Directories           : {"Code/CPU" "Code/IO" "ipcore_dir"  }
 =========================================================================
 *                          HDL Parsing                                  *
 =========================================================================
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\Code\common\xor32.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\common\xor32.v" into library work
 Parsing module <xor32>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\Code\common\addc_32.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\common\addc_32.v" into library work
 Parsing module <ADC32>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\Code\MUX\MUX8T1_32.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\MUX\MUX8T1_32.v" into library work
 Parsing module <MUX8T1_32>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\Code\common\srl32.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\common\srl32.v" into library work
 Parsing module <srl32>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\Code\common\or_bit_32 .v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\common\or_bit_32 .v" into library work
 Parsing module <or_bit_32>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\Code\common\or32.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\common\or32.v" into library work
 Parsing module <or32>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\Code\common\nor32.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\common\nor32.v" into library work
 Parsing module <nor32>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\Code\common\and32.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\common\and32.v" into library work
 Parsing module <and32>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\ABC32.vf" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\ABC32.vf" into library work
 Parsing module <ABC32>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\Code\MUX\MUX2T1_5.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\MUX\MUX2T1_5.v" into library work
 Parsing module <MUX2T1_5>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\Code\MUX\MUX2T1_32.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\MUX\MUX2T1_32.v" into library work
 Parsing module <MUX2T1_32>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\Code\CPU\Regs.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\CPU\Regs.v" into library work
 Parsing module <Regs>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\Code\CPU\REG32.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\CPU\REG32.v" into library work
 Parsing module <REG32>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\alu.vf" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\alu.vf" into library work
 Parsing module <alu>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\Code\common\Ext_imm16.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\common\Ext_imm16.v" into library work
 Parsing module <Ext_32>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\Code\common\add_32.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\common\add_32.v" into library work
 Parsing module <add_32>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\SDPath.vf" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\SDPath.vf" into library work
 Parsing module <SDPath>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\Code\IO\port\LED_P2S_IO.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\IO\port\LED_P2S_IO.v" into library work
 Parsing module <LEDP2S>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\Code\CPU\Controller.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\CPU\Controller.v" into library work
 Parsing module <SCtrl>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\ipcore_dir\ROM_D.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\ipcore_dir\ROM_D.v" into library work
 Parsing module <ROM_D>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\ipcore_dir\RAM_B.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\ipcore_dir\RAM_B.v" into library work
 Parsing module <RAM_B>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\Code\IO\port\SEnter_2_32_IO.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\IO\port\SEnter_2_32_IO.v" into library work
 Parsing module <SEnter_2_32>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\Code\IO\port\Seg7_Dev_IO.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\IO\port\Seg7_Dev_IO.v" into library work
 Parsing module <Seg7_Dev>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\Code\IO\port\SAnti_jitter_IO.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\IO\port\SAnti_jitter_IO.v" into library work
 Parsing module <SAnti_jitter>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\Code\IO\port\PIO_IO.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\IO\port\PIO_IO.v" into library work
 Parsing module <PIO>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\Code\IO\port\Multi_8CH32_IO.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\IO\port\Multi_8CH32_IO.v" into library work
 Parsing module <Multi_8CH32>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\Code\IO\port\MIO_BUS_IO.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\IO\port\MIO_BUS_IO.v" into library work
 Parsing module <MIO_BUS>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\Code\IO\port\Display_IO.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\IO\port\Display_IO.v" into library work
 Parsing module <Display>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\Code\IO\port\Counter_3_IO.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\IO\port\Counter_3_IO.v" into library work
 Parsing module <Counter>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\Code\IO\GPIO.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\IO\GPIO.v" into library work
 Parsing module <GPIO>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\Code\IO\clk_div.v" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\IO\clk_div.v" into library work
 Parsing module <clk_div>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\SCPU.vf" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\SCPU.vf" into library work
 Parsing module <alu_MUSER_SCPU>.
 Parsing module <SDPath_MUSER_SCPU>.
 Parsing module <SCPU>.
-Analyzing Verilog file "C:\Xilink_Project\OExp05-DataPath\OExp05_DataPath.vf" into library work
+Analyzing Verilog file "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\OExp05_DataPath.vf" into library work
 Parsing module <OExp05_DataPath>.
 
 =========================================================================
@@ -184,61 +184,16 @@ Parsing module <OExp05_DataPath>.
 Elaborating module <OExp05_DataPath>.
 
 Elaborating module <SEnter_2_32>.
-WARNING:HDLCompiler:1499 - "C:\Xilink_Project\OExp05-DataPath\Code\IO\port\SEnter_2_32_IO.v" Line 21: Empty module <SEnter_2_32> remains a black box.
-WARNING:HDLCompiler:1127 - "C:\Xilink_Project\OExp05-DataPath\OExp05_DataPath.vf" Line 109: Assignment to Ai ignored, since the identifier is never used
-WARNING:HDLCompiler:1127 - "C:\Xilink_Project\OExp05-DataPath\OExp05_DataPath.vf" Line 110: Assignment to Bi ignored, since the identifier is never used
-WARNING:HDLCompiler:1127 - "C:\Xilink_Project\OExp05-DataPath\OExp05_DataPath.vf" Line 111: Assignment to blink ignored, since the identifier is never used
-
-Elaborating module <ROM_D>.
-WARNING:HDLCompiler:1499 - "C:\Xilink_Project\OExp05-DataPath\ipcore_dir\ROM_D.v" Line 39: Empty module <ROM_D> remains a black box.
-
-Elaborating module <RAM_B>.
-WARNING:HDLCompiler:1499 - "C:\Xilink_Project\OExp05-DataPath\ipcore_dir\RAM_B.v" Line 39: Empty module <RAM_B> remains a black box.
-
-Elaborating module <MIO_BUS>.
-WARNING:HDLCompiler:1499 - "C:\Xilink_Project\OExp05-DataPath\Code\IO\port\MIO_BUS_IO.v" Line 21: Empty module <MIO_BUS> remains a black box.
-
-Elaborating module <Multi_8CH32>.
-WARNING:HDLCompiler:1499 - "C:\Xilink_Project\OExp05-DataPath\Code\IO\port\Multi_8CH32_IO.v" Line 21: Empty module <Multi_8CH32> remains a black box.
-
-Elaborating module <Display>.
-WARNING:HDLCompiler:1499 - "C:\Xilink_Project\OExp05-DataPath\Code\IO\port\Display_IO.v" Line 21: Empty module <Display> remains a black box.
-
-Elaborating module <GPIO>.
-
-Elaborating module <LEDP2S(DATA_BITS=16,DATA_COUNT_BITS=4,DIR=0)>.
-WARNING:HDLCompiler:1499 - "C:\Xilink_Project\OExp05-DataPath\Code\IO\port\LED_P2S_IO.v" Line 21: Empty module <LEDP2S(DATA_BITS=16,DATA_COUNT_BITS=4,DIR=0)> remains a black box.
-
-Elaborating module <clk_div>.
-
-Elaborating module <IBUFDS>.
-
-Elaborating module <SAnti_jitter>.
-WARNING:HDLCompiler:1499 - "C:\Xilink_Project\OExp05-DataPath\Code\IO\port\SAnti_jitter_IO.v" Line 21: Empty module <SAnti_jitter> remains a black box.
-WARNING:HDLCompiler:1127 - "C:\Xilink_Project\OExp05-DataPath\OExp05_DataPath.vf" Line 202: Assignment to Pulse ignored, since the identifier is never used
-
-Elaborating module <Counter>.
-WARNING:HDLCompiler:1127 - "C:\Xilink_Project\OExp05-DataPath\Code\IO\port\Counter_3_IO.v" Line 43: Assignment to M2 ignored, since the identifier is never used
-WARNING:HDLCompiler:634 - "C:\Xilink_Project\OExp05-DataPath\Code\IO\port\Counter_3_IO.v" Line 36: Net <counter1[32]> does not have a driver.
-
-Elaborating module <Seg7_Dev>.
-WARNING:HDLCompiler:1499 - "C:\Xilink_Project\OExp05-DataPath\Code\IO\port\Seg7_Dev_IO.v" Line 21: Empty module <Seg7_Dev> remains a black box.
-
-Elaborating module <PIO>.
-WARNING:HDLCompiler:1499 - "C:\Xilink_Project\OExp05-DataPath\Code\IO\port\PIO_IO.v" Line 21: Empty module <PIO> remains a black box.
-
-Elaborating module <VCC>.
-WARNING:HDLCompiler:1127 - "C:\Xilink_Project\OExp05-DataPath\OExp05_DataPath.vf" Line 232: Assignment to V5 ignored, since the identifier is never used
-
-Elaborating module <GND>.
-
-Elaborating module <INV>.
+WARNING:HDLCompiler:1499 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\IO\port\SEnter_2_32_IO.v" Line 21: Empty module <SEnter_2_32> remains a black box.
+WARNING:HDLCompiler:1127 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\OExp05_DataPath.vf" Line 109: Assignment to Ai ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\OExp05_DataPath.vf" Line 110: Assignment to Bi ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\OExp05_DataPath.vf" Line 111: Assignment to blink ignored, since the identifier is never used
 
 Elaborating module <SCPU>.
 
 Elaborating module <SCtrl>.
-WARNING:HDLCompiler:1499 - "C:\Xilink_Project\OExp05-DataPath\Code\CPU\Controller.v" Line 21: Empty module <SCtrl> remains a black box.
-WARNING:HDLCompiler:1016 - "C:\Xilink_Project\OExp05-DataPath\SCPU.vf" Line 173: Port Co is not connected to this instance
+WARNING:HDLCompiler:1499 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\CPU\Controller.v" Line 21: Empty module <SCtrl> remains a black box.
+WARNING:HDLCompiler:1016 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\SCPU.vf" Line 173: Port Co is not connected to this instance
 
 Elaborating module <SDPath_MUSER_SCPU>.
 
@@ -249,6 +204,8 @@ Elaborating module <Ext_32>.
 Elaborating module <MUX2T1_5>.
 
 Elaborating module <MUX2T1_32>.
+
+Elaborating module <GND>.
 
 Elaborating module <REG32>.
 
@@ -265,7 +222,7 @@ Elaborating module <nor32>.
 Elaborating module <srl32>.
 
 Elaborating module <or_bit_32>.
-WARNING:HDLCompiler:413 - "C:\Xilink_Project\OExp05-DataPath\Code\common\or_bit_32 .v" Line 25: Result of 32-bit expression is truncated to fit in 1-bit target.
+WARNING:HDLCompiler:413 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\common\or_bit_32 .v" Line 25: Result of 32-bit expression is truncated to fit in 1-bit target.
 
 Elaborating module <MUX8T1_32>.
 
@@ -275,32 +232,197 @@ Elaborating module <ADC32>.
 
 Elaborating module <Regs>.
 
+Elaborating module <VCC>.
+
 Elaborating module <AND2>.
-WARNING:HDLCompiler:552 - "C:\Xilink_Project\OExp05-DataPath\OExp05_DataPath.vf" Line 236: Input port MIO_ready is not connected on this instance
+
+Elaborating module <ROM_D>.
+WARNING:HDLCompiler:1499 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\ipcore_dir\ROM_D.v" Line 39: Empty module <ROM_D> remains a black box.
+
+Elaborating module <RAM_B>.
+WARNING:HDLCompiler:1499 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\ipcore_dir\RAM_B.v" Line 39: Empty module <RAM_B> remains a black box.
+
+Elaborating module <MIO_BUS>.
+WARNING:HDLCompiler:1499 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\IO\port\MIO_BUS_IO.v" Line 21: Empty module <MIO_BUS> remains a black box.
+
+Elaborating module <Multi_8CH32>.
+WARNING:HDLCompiler:1499 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\IO\port\Multi_8CH32_IO.v" Line 21: Empty module <Multi_8CH32> remains a black box.
+
+Elaborating module <Display>.
+WARNING:HDLCompiler:1499 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\IO\port\Display_IO.v" Line 21: Empty module <Display> remains a black box.
+
+Elaborating module <GPIO>.
+
+Elaborating module <LEDP2S(DATA_BITS=16,DATA_COUNT_BITS=4,DIR=0)>.
+WARNING:HDLCompiler:1499 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\IO\port\LED_P2S_IO.v" Line 21: Empty module <LEDP2S(DATA_BITS=16,DATA_COUNT_BITS=4,DIR=0)> remains a black box.
+
+Elaborating module <clk_div>.
+
+Elaborating module <IBUFDS>.
+
+Elaborating module <SAnti_jitter>.
+WARNING:HDLCompiler:1499 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\IO\port\SAnti_jitter_IO.v" Line 21: Empty module <SAnti_jitter> remains a black box.
+WARNING:HDLCompiler:1127 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\OExp05_DataPath.vf" Line 213: Assignment to Pulse ignored, since the identifier is never used
+
+Elaborating module <Counter>.
+WARNING:HDLCompiler:1127 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\IO\port\Counter_3_IO.v" Line 43: Assignment to M2 ignored, since the identifier is never used
+WARNING:HDLCompiler:634 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\IO\port\Counter_3_IO.v" Line 36: Net <counter1[32]> does not have a driver.
+
+Elaborating module <Seg7_Dev>.
+WARNING:HDLCompiler:1499 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\IO\port\Seg7_Dev_IO.v" Line 21: Empty module <Seg7_Dev> remains a black box.
+
+Elaborating module <PIO>.
+WARNING:HDLCompiler:1499 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\IO\port\PIO_IO.v" Line 21: Empty module <PIO> remains a black box.
+WARNING:HDLCompiler:1127 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\OExp05_DataPath.vf" Line 243: Assignment to V5 ignored, since the identifier is never used
+
+Elaborating module <INV>.
+WARNING:HDLCompiler:552 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\OExp05_DataPath.vf" Line 113: Input port MIO_ready is not connected on this instance
 
 =========================================================================
 *                           HDL Synthesis                               *
 =========================================================================
 
 Synthesizing Unit <OExp05_DataPath>.
-    Related source file is "C:\Xilink_Project\OExp05-DataPath\OExp05_DataPath.vf".
+    Related source file is "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\OExp05_DataPath.vf".
     Set property "LOC = K13,K14,J13,J14,H13,H14,G12,F12" for signal <SW>.
-INFO:Xst:3210 - "C:\Xilink_Project\OExp05-DataPath\OExp05_DataPath.vf" line 104: Output port <Ai> of the instance <M4> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "C:\Xilink_Project\OExp05-DataPath\OExp05_DataPath.vf" line 104: Output port <Bi> of the instance <M4> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "C:\Xilink_Project\OExp05-DataPath\OExp05_DataPath.vf" line 104: Output port <blink> of the instance <M4> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "C:\Xilink_Project\OExp05-DataPath\OExp05_DataPath.vf" line 161: Output port <segclrn> of the instance <U6> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "C:\Xilink_Project\OExp05-DataPath\OExp05_DataPath.vf" line 173: Output port <GPIOf0> of the instance <U7> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "C:\Xilink_Project\OExp05-DataPath\OExp05_DataPath.vf" line 173: Output port <ledclrn> of the instance <U7> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "C:\Xilink_Project\OExp05-DataPath\OExp05_DataPath.vf" line 192: Output port <pulse_out> of the instance <U9> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "C:\Xilink_Project\OExp05-DataPath\OExp05_DataPath.vf" line 225: Output port <counter_set> of the instance <U71> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "C:\Xilink_Project\OExp05-DataPath\OExp05_DataPath.vf" line 225: Output port <GPIOf0> of the instance <U71> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "C:\Xilink_Project\OExp05-DataPath\OExp05_DataPath.vf" line 236: Output port <CPU_MIO> of the instance <XLXI_73> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\OExp05_DataPath.vf" line 104: Output port <Ai> of the instance <M4> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\OExp05_DataPath.vf" line 104: Output port <Bi> of the instance <M4> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\OExp05_DataPath.vf" line 104: Output port <blink> of the instance <M4> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\OExp05_DataPath.vf" line 113: Output port <CPU_MIO> of the instance <U1> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\OExp05_DataPath.vf" line 172: Output port <segclrn> of the instance <U6> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\OExp05_DataPath.vf" line 184: Output port <GPIOf0> of the instance <U7> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\OExp05_DataPath.vf" line 184: Output port <ledclrn> of the instance <U7> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\OExp05_DataPath.vf" line 203: Output port <pulse_out> of the instance <U9> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\OExp05_DataPath.vf" line 236: Output port <counter_set> of the instance <U71> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\OExp05_DataPath.vf" line 236: Output port <GPIOf0> of the instance <U71> is unconnected or connected to loadless signal.
     Summary:
 	no macro.
 Unit <OExp05_DataPath> synthesized.
 
+Synthesizing Unit <SCPU>.
+    Related source file is "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\SCPU.vf".
+WARNING:Xst:647 - Input <INT> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+    Summary:
+	no macro.
+Unit <SCPU> synthesized.
+
+Synthesizing Unit <SDPath_MUSER_SCPU>.
+    Related source file is "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\SCPU.vf".
+INFO:Xst:3210 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\SCPU.vf" line 173: Output port <Co> of the instance <U1_1> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\SCPU.vf" line 173: Output port <overflow> of the instance <U1_1> is unconnected or connected to loadless signal.
+    Summary:
+	no macro.
+Unit <SDPath_MUSER_SCPU> synthesized.
+
+Synthesizing Unit <add_32>.
+    Related source file is "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\common\add_32.v".
+    Found 32-bit adder for signal <c> created at line 26.
+    Summary:
+	inferred   1 Adder/Subtractor(s).
+Unit <add_32> synthesized.
+
+Synthesizing Unit <Ext_32>.
+    Related source file is "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\common\Ext_imm16.v".
+    Summary:
+	no macro.
+Unit <Ext_32> synthesized.
+
+Synthesizing Unit <MUX2T1_5>.
+    Related source file is "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\MUX\MUX2T1_5.v".
+    Summary:
+	inferred   1 Multiplexer(s).
+Unit <MUX2T1_5> synthesized.
+
+Synthesizing Unit <MUX2T1_32>.
+    Related source file is "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\MUX\MUX2T1_32.v".
+    Summary:
+	inferred   1 Multiplexer(s).
+Unit <MUX2T1_32> synthesized.
+
+Synthesizing Unit <REG32>.
+    Related source file is "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\CPU\REG32.v".
+    Found 32-bit register for signal <Q>.
+    Summary:
+	inferred  32 D-type flip-flop(s).
+Unit <REG32> synthesized.
+
+Synthesizing Unit <alu_MUSER_SCPU>.
+    Related source file is "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\SCPU.vf".
+WARNING:Xst:653 - Signal <overflow> is used but never assigned. This sourceless signal will be automatically connected to value GND.
+    Summary:
+	no macro.
+Unit <alu_MUSER_SCPU> synthesized.
+
+Synthesizing Unit <and32>.
+    Related source file is "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\common\and32.v".
+    Summary:
+	no macro.
+Unit <and32> synthesized.
+
+Synthesizing Unit <or32>.
+    Related source file is "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\common\or32.v".
+    Summary:
+	no macro.
+Unit <or32> synthesized.
+
+Synthesizing Unit <xor32>.
+    Related source file is "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\common\xor32.v".
+    Summary:
+Unit <xor32> synthesized.
+
+Synthesizing Unit <nor32>.
+    Related source file is "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\common\nor32.v".
+    Summary:
+	no macro.
+Unit <nor32> synthesized.
+
+Synthesizing Unit <srl32>.
+    Related source file is "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\common\srl32.v".
+WARNING:Xst:647 - Input <A> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+WARNING:Xst:647 - Input <B<0:0>> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+    Summary:
+	no macro.
+Unit <srl32> synthesized.
+
+Synthesizing Unit <or_bit_32>.
+    Related source file is "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\common\or_bit_32 .v".
+    Summary:
+	no macro.
+Unit <or_bit_32> synthesized.
+
+Synthesizing Unit <MUX8T1_32>.
+    Related source file is "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\MUX\MUX8T1_32.v".
+    Found 32-bit 8-to-1 multiplexer for signal <o> created at line 35.
+    Summary:
+	inferred   1 Multiplexer(s).
+Unit <MUX8T1_32> synthesized.
+
+Synthesizing Unit <ABC32>.
+    Related source file is "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\ABC32.vf".
+    Summary:
+	no macro.
+Unit <ABC32> synthesized.
+
+Synthesizing Unit <ADC32>.
+    Related source file is "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\common\addc_32.v".
+    Found 33-bit adder for signal <n0011> created at line 33.
+    Found 33-bit adder for signal <n0004> created at line 33.
+    Summary:
+	inferred   2 Adder/Subtractor(s).
+Unit <ADC32> synthesized.
+
+Synthesizing Unit <Regs>.
+    Related source file is "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\CPU\Regs.v".
+    Found 992-bit register for signal <n0051[991:0]>.
+    Found 32-bit 31-to-1 multiplexer for signal <R_addr_A[4]_register[31][31]_wide_mux_1_OUT> created at line 36.
+    Found 32-bit 31-to-1 multiplexer for signal <R_addr_B[4]_register[31][31]_wide_mux_4_OUT> created at line 37.
+    Summary:
+	inferred 992 D-type flip-flop(s).
+	inferred  35 Multiplexer(s).
+Unit <Regs> synthesized.
+
 Synthesizing Unit <GPIO>.
-    Related source file is "C:\Xilink_Project\OExp05-DataPath\Code\IO\GPIO.v".
+    Related source file is "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\IO\GPIO.v".
     Found 2-bit register for signal <counter_set>.
     Found 16-bit register for signal <LED>.
     Found 14-bit register for signal <GPIOf0>.
@@ -309,10 +431,10 @@ Synthesizing Unit <GPIO>.
 Unit <GPIO> synthesized.
 
 Synthesizing Unit <clk_div>.
-    Related source file is "C:\Xilink_Project\OExp05-DataPath\Code\IO\clk_div.v".
+    Related source file is "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\IO\clk_div.v".
     Found 32-bit register for signal <clkdiv>.
     Found 1-bit register for signal <clk100MHz>.
-    Found 32-bit adder for signal <clkdiv[31]_GND_11_o_add_1_OUT> created at line 62.
+    Found 32-bit adder for signal <clkdiv[31]_GND_33_o_add_1_OUT> created at line 62.
     Summary:
 	inferred   1 Adder/Subtractor(s).
 	inferred  33 D-type flip-flop(s).
@@ -320,7 +442,7 @@ Synthesizing Unit <clk_div>.
 Unit <clk_div> synthesized.
 
 Synthesizing Unit <Counter>.
-    Related source file is "C:\Xilink_Project\OExp05-DataPath\Code\IO\port\Counter_3_IO.v".
+    Related source file is "C:\SCU\SCU-Xilink_Projects\OExp05-DataPath\Code\IO\port\Counter_3_IO.v".
 WARNING:Xst:647 - Input <clk1> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
 WARNING:Xst:647 - Input <clk2> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
 WARNING:Xst:653 - Signal <counter1<32>> is used but never assigned. This sourceless signal will be automatically connected to value GND.
@@ -331,7 +453,7 @@ WARNING:Xst:653 - Signal <counter2<32>> is used but never assigned. This sourcel
     Found 1-bit register for signal <sq0>.
     Found 1-bit register for signal <M0>.
     Found 1-bit register for signal <clr0>.
-    Found 33-bit subtractor for signal <counter0[32]_GND_14_o_sub_26_OUT> created at line 77.
+    Found 33-bit subtractor for signal <counter0[32]_GND_36_o_sub_26_OUT> created at line 77.
     Found 33-bit 4-to-1 multiplexer for signal <counter_Ctrl[2]_counter0[32]_wide_mux_26_OUT> created at line 70.
     Found 1-bit comparator not equal for signal <n0017> created at line 76
     Summary:
@@ -340,128 +462,6 @@ WARNING:Xst:653 - Signal <counter2<32>> is used but never assigned. This sourcel
 	inferred   1 Comparator(s).
 	inferred   5 Multiplexer(s).
 Unit <Counter> synthesized.
-
-Synthesizing Unit <SCPU>.
-    Related source file is "C:\Xilink_Project\OExp05-DataPath\SCPU.vf".
-WARNING:Xst:647 - Input <INT> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
-    Summary:
-	no macro.
-Unit <SCPU> synthesized.
-
-Synthesizing Unit <SDPath_MUSER_SCPU>.
-    Related source file is "C:\Xilink_Project\OExp05-DataPath\SCPU.vf".
-INFO:Xst:3210 - "C:\Xilink_Project\OExp05-DataPath\SCPU.vf" line 173: Output port <Co> of the instance <U1_1> is unconnected or connected to loadless signal.
-INFO:Xst:3210 - "C:\Xilink_Project\OExp05-DataPath\SCPU.vf" line 173: Output port <overflow> of the instance <U1_1> is unconnected or connected to loadless signal.
-    Summary:
-	no macro.
-Unit <SDPath_MUSER_SCPU> synthesized.
-
-Synthesizing Unit <add_32>.
-    Related source file is "C:\Xilink_Project\OExp05-DataPath\Code\common\add_32.v".
-    Found 32-bit adder for signal <c> created at line 26.
-    Summary:
-	inferred   1 Adder/Subtractor(s).
-Unit <add_32> synthesized.
-
-Synthesizing Unit <Ext_32>.
-    Related source file is "C:\Xilink_Project\OExp05-DataPath\Code\common\Ext_imm16.v".
-    Summary:
-	no macro.
-Unit <Ext_32> synthesized.
-
-Synthesizing Unit <MUX2T1_5>.
-    Related source file is "C:\Xilink_Project\OExp05-DataPath\Code\MUX\MUX2T1_5.v".
-    Summary:
-	inferred   1 Multiplexer(s).
-Unit <MUX2T1_5> synthesized.
-
-Synthesizing Unit <MUX2T1_32>.
-    Related source file is "C:\Xilink_Project\OExp05-DataPath\Code\MUX\MUX2T1_32.v".
-    Summary:
-	inferred   1 Multiplexer(s).
-Unit <MUX2T1_32> synthesized.
-
-Synthesizing Unit <REG32>.
-    Related source file is "C:\Xilink_Project\OExp05-DataPath\Code\CPU\REG32.v".
-    Found 32-bit register for signal <Q>.
-    Summary:
-	inferred  32 D-type flip-flop(s).
-Unit <REG32> synthesized.
-
-Synthesizing Unit <alu_MUSER_SCPU>.
-    Related source file is "C:\Xilink_Project\OExp05-DataPath\SCPU.vf".
-WARNING:Xst:653 - Signal <overflow> is used but never assigned. This sourceless signal will be automatically connected to value GND.
-    Summary:
-	no macro.
-Unit <alu_MUSER_SCPU> synthesized.
-
-Synthesizing Unit <and32>.
-    Related source file is "C:\Xilink_Project\OExp05-DataPath\Code\common\and32.v".
-    Summary:
-	no macro.
-Unit <and32> synthesized.
-
-Synthesizing Unit <or32>.
-    Related source file is "C:\Xilink_Project\OExp05-DataPath\Code\common\or32.v".
-    Summary:
-	no macro.
-Unit <or32> synthesized.
-
-Synthesizing Unit <xor32>.
-    Related source file is "C:\Xilink_Project\OExp05-DataPath\Code\common\xor32.v".
-    Summary:
-Unit <xor32> synthesized.
-
-Synthesizing Unit <nor32>.
-    Related source file is "C:\Xilink_Project\OExp05-DataPath\Code\common\nor32.v".
-    Summary:
-	no macro.
-Unit <nor32> synthesized.
-
-Synthesizing Unit <srl32>.
-    Related source file is "C:\Xilink_Project\OExp05-DataPath\Code\common\srl32.v".
-WARNING:Xst:647 - Input <A> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
-WARNING:Xst:647 - Input <B<0:0>> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
-    Summary:
-	no macro.
-Unit <srl32> synthesized.
-
-Synthesizing Unit <or_bit_32>.
-    Related source file is "C:\Xilink_Project\OExp05-DataPath\Code\common\or_bit_32 .v".
-    Summary:
-	no macro.
-Unit <or_bit_32> synthesized.
-
-Synthesizing Unit <MUX8T1_32>.
-    Related source file is "C:\Xilink_Project\OExp05-DataPath\Code\MUX\MUX8T1_32.v".
-    Found 32-bit 8-to-1 multiplexer for signal <o> created at line 35.
-    Summary:
-	inferred   1 Multiplexer(s).
-Unit <MUX8T1_32> synthesized.
-
-Synthesizing Unit <ABC32>.
-    Related source file is "C:\Xilink_Project\OExp05-DataPath\ABC32.vf".
-    Summary:
-	no macro.
-Unit <ABC32> synthesized.
-
-Synthesizing Unit <ADC32>.
-    Related source file is "C:\Xilink_Project\OExp05-DataPath\Code\common\addc_32.v".
-    Found 33-bit adder for signal <n0011> created at line 33.
-    Found 33-bit adder for signal <n0004> created at line 33.
-    Summary:
-	inferred   2 Adder/Subtractor(s).
-Unit <ADC32> synthesized.
-
-Synthesizing Unit <Regs>.
-    Related source file is "C:\Xilink_Project\OExp05-DataPath\Code\CPU\Regs.v".
-    Found 992-bit register for signal <n0051[991:0]>.
-    Found 32-bit 31-to-1 multiplexer for signal <R_addr_A[4]_register[31][31]_wide_mux_1_OUT> created at line 36.
-    Found 32-bit 31-to-1 multiplexer for signal <R_addr_B[4]_register[31][31]_wide_mux_4_OUT> created at line 37.
-    Summary:
-	inferred 992 D-type flip-flop(s).
-	inferred  35 Multiplexer(s).
-Unit <Regs> synthesized.
 
 =========================================================================
 HDL Synthesis Report
@@ -516,8 +516,8 @@ Reading core <Code/IO/PIO.ngc>.
 Reading core <ipcore_dir/RAM_B.ngc>.
 Reading core <Code/IO/Seg7_Dev.ngc>.
 Reading core <ipcore_dir/ROM_D.ngc>.
-Reading core <Code/IO/LEDP2S.ngc>.
 Reading core <Code/CPU/SCtrl.ngc>.
+Reading core <Code/IO/LEDP2S.ngc>.
 Loading core <SAnti_jitter> for timing and area information for instance <U9>.
 Loading core <SEnter_2_32> for timing and area information for instance <M4>.
 Loading core <MIO_BUS> for timing and area information for instance <U4>.
@@ -527,8 +527,8 @@ Loading core <PIO> for timing and area information for instance <U71>.
 Loading core <RAM_B> for timing and area information for instance <U3>.
 Loading core <Seg7_Dev> for timing and area information for instance <U61>.
 Loading core <ROM_D> for timing and area information for instance <U2>.
-Loading core <LEDP2S> for timing and area information for instance <PTLED>.
 Loading core <SCtrl> for timing and area information for instance <Controller>.
+Loading core <LEDP2S> for timing and area information for instance <PTLED>.
 WARNING:Xst:2677 - Node <counter_Ctrl_0> of sequential type is unconnected in block <U10>.
 WARNING:Xst:2677 - Node <counter_Ctrl_3> of sequential type is unconnected in block <U10>.
 WARNING:Xst:2677 - Node <counter_Ctrl_4> of sequential type is unconnected in block <U10>.
@@ -613,15 +613,15 @@ Optimizing unit <REG32> ...
 
 Optimizing unit <OExp05_DataPath> ...
 
-Optimizing unit <GPIO> ...
-
-Optimizing unit <Counter> ...
-
 Optimizing unit <SDPath_MUSER_SCPU> ...
 
 Optimizing unit <alu_MUSER_SCPU> ...
 
 Optimizing unit <Regs> ...
+
+Optimizing unit <GPIO> ...
+
+Optimizing unit <Counter> ...
 WARNING:Xst:2677 - Node <U7/GPIOf0_13> of sequential type is unconnected in block <OExp05_DataPath>.
 WARNING:Xst:2677 - Node <U7/GPIOf0_12> of sequential type is unconnected in block <OExp05_DataPath>.
 WARNING:Xst:2677 - Node <U7/GPIOf0_11> of sequential type is unconnected in block <OExp05_DataPath>.
@@ -636,8 +636,8 @@ WARNING:Xst:2677 - Node <U7/GPIOf0_3> of sequential type is unconnected in block
 WARNING:Xst:2677 - Node <U7/GPIOf0_2> of sequential type is unconnected in block <OExp05_DataPath>.
 WARNING:Xst:2677 - Node <U7/GPIOf0_1> of sequential type is unconnected in block <OExp05_DataPath>.
 WARNING:Xst:2677 - Node <U7/GPIOf0_0> of sequential type is unconnected in block <OExp05_DataPath>.
-WARNING:Xst:1710 - FF/Latch <XLXI_73/DataPath/PC/Q_1> (without init value) has a constant value of 0 in block <OExp05_DataPath>. This FF/Latch will be trimmed during the optimization process.
-WARNING:Xst:1710 - FF/Latch <XLXI_73/DataPath/PC/Q_0> (without init value) has a constant value of 0 in block <OExp05_DataPath>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1710 - FF/Latch <U1/DataPath/PC/Q_1> (without init value) has a constant value of 0 in block <OExp05_DataPath>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1710 - FF/Latch <U1/DataPath/PC/Q_0> (without init value) has a constant value of 0 in block <OExp05_DataPath>. This FF/Latch will be trimmed during the optimization process.
 
 Mapping all equations...
 Building and optimizing final netlist ...
@@ -764,18 +764,18 @@ NOTE: THESE TIMING NUMBERS ARE ONLY A SYNTHESIS ESTIMATE.
 
 Clock Information:
 ------------------
------------------------------------+------------------------+-------+
-Clock Signal                       | Clock buffer(FF name)  | Load  |
------------------------------------+------------------------+-------+
-clk200P                            | IBUFDS                 | 1     |
-U8/clk100MHz                       | BUFG                   | 194   |
-Clk_CPU(U8/Mmux_Clk_CPU11:O)       | BUFG(*)(U7/LED_15)     | 1163  |
-U8/clkdiv_4                        | BUFG                   | 35    |
-U9/clk1                            | BUFG                   | 41    |
-M4/push(M4/push1:O)                | NONE(*)(M4/state_0)    | 3     |
-U6/PT7SEG/sh_clk                   | BUFG                   | 65    |
-U7/PTLED/sh_clk                    | NONE(U7/PTLED/Q_0)     | 17    |
------------------------------------+------------------------+-------+
+-----------------------------------+------------------------------------------+-------+
+Clock Signal                       | Clock buffer(FF name)                    | Load  |
+-----------------------------------+------------------------------------------+-------+
+clk200P                            | IBUFDS                                   | 1     |
+U8/clk100MHz                       | BUFG                                     | 194   |
+Clk_CPU(U8/Mmux_Clk_CPU11:O)       | BUFG(*)(U1/DataPath/U2_2/register_31_991)| 1163  |
+U8/clkdiv_4                        | BUFG                                     | 35    |
+U9/clk1                            | BUFG                                     | 41    |
+M4/push(M4/push1:O)                | NONE(*)(M4/state_0)                      | 3     |
+U6/PT7SEG/sh_clk                   | BUFG                                     | 65    |
+U7/PTLED/sh_clk                    | NONE(U7/PTLED/Q_0)                       | 17    |
+-----------------------------------+------------------------------------------+-------+
 (*) These 2 clock signal(s) are generated by combinatorial logic,
 and XST is not able to identify which are the primary clock signals.
 Please use the CLOCK_SIGNAL constraint to specify the clock signal(s) generated by combinatorial logic.
@@ -858,60 +858,60 @@ Timing constraint: Default period analysis for Clock 'Clk_CPU'
   Total number of paths / destination ports: 1154325495 / 2270
 -------------------------------------------------------------------------
 Delay:               7.525ns (Levels of Logic = 44)
-  Source:            XLXI_73/DataPath/PC/Q_10 (FF)
+  Source:            U1/DataPath/PC/Q_10 (FF)
   Destination:       U5/cpu_point_0 (FF)
   Source Clock:      Clk_CPU rising
   Destination Clock: Clk_CPU falling
 
-  Data Path: XLXI_73/DataPath/PC/Q_10 to U5/cpu_point_0
+  Data Path: U1/DataPath/PC/Q_10 to U5/cpu_point_0
                                 Gate     Net
     Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
     ----------------------------------------  ------------
-     FDC:C->Q             59   0.236   0.630  XLXI_73/DataPath/PC/Q_10 (XLXI_73/DataPath/PC/Q_10)
+     FDC:C->Q             59   0.236   0.630  U1/DataPath/PC/Q_10 (U1/DataPath/PC/Q_10)
      begin scope: 'U2:a<8>'
      LUT3:I0->O            1   0.043   0.613  U0/xst_options.dist_mem_inst/gen_rom.rom_inst/Mram_spo_int72113_SW0 (N26)
      LUT6:I0->O            1   0.043   0.495  U0/xst_options.dist_mem_inst/gen_rom.rom_inst/Mram_spo_int72113 (U0/xst_options.dist_mem_inst/gen_rom.rom_inst/Mram_spo_int72112)
      LUT6:I3->O            6   0.043   0.433  U0/xst_options.dist_mem_inst/gen_rom.rom_inst/Mram_spo_int721113 (spo<27>)
      end scope: 'U2:spo<27>'
-     begin scope: 'XLXI_73/Controller:OPcode<1>'
-     begin scope: 'XLXI_73/Controller/XLXI_9:I4'
+     begin scope: 'U1/Controller:OPcode<1>'
+     begin scope: 'U1/Controller/XLXI_9:I4'
      LUT6:I4->O            7   0.043   0.373  O1 (O)
-     end scope: 'XLXI_73/Controller/XLXI_9:O'
+     end scope: 'U1/Controller/XLXI_9:O'
      BUF:I->O              3   0.054   0.615  XLXI_23 (ALUop1)
      AND2:I1->O            1   0.043   0.613  XLXI_24 (XLXN_255)
      OR2:I0->O            66   0.043   0.486  XLXI_26 (ALU_Control<2>)
-     end scope: 'XLXI_73/Controller:ALU_Control<2>'
-     LUT6:I5->O            1   0.043   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_lut<0> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_lut<0>)
-     MUXCY:S->O            1   0.238   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<0> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<0>)
-     MUXCY:CI->O           1   0.013   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<1> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<1>)
-     MUXCY:CI->O           1   0.013   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<2> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<2>)
-     MUXCY:CI->O           1   0.013   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<3> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<3>)
-     MUXCY:CI->O           1   0.013   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<4> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<4>)
-     MUXCY:CI->O           1   0.013   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<5> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<5>)
-     MUXCY:CI->O           1   0.013   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<6> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<6>)
-     MUXCY:CI->O           1   0.013   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<7> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<7>)
-     MUXCY:CI->O           1   0.013   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<8> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<8>)
-     MUXCY:CI->O           1   0.013   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<9> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<9>)
-     MUXCY:CI->O           1   0.013   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<10> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<10>)
-     MUXCY:CI->O           1   0.013   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<11> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<11>)
-     MUXCY:CI->O           1   0.013   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<12> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<12>)
-     MUXCY:CI->O           1   0.013   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<13> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<13>)
-     MUXCY:CI->O           1   0.013   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<14> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<14>)
-     MUXCY:CI->O           1   0.013   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<15> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<15>)
-     MUXCY:CI->O           1   0.013   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<16> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<16>)
-     MUXCY:CI->O           1   0.013   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<17> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<17>)
-     MUXCY:CI->O           1   0.013   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<18> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<18>)
-     MUXCY:CI->O           1   0.013   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<19> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<19>)
-     MUXCY:CI->O           1   0.013   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<20> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<20>)
-     MUXCY:CI->O           1   0.013   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<21> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<21>)
-     MUXCY:CI->O           1   0.013   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<22> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<22>)
-     MUXCY:CI->O           1   0.013   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<23> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<23>)
-     MUXCY:CI->O           1   0.013   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<24> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<24>)
-     MUXCY:CI->O           1   0.013   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<25> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<25>)
-     MUXCY:CI->O           1   0.013   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<26> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<26>)
-     MUXCY:CI->O           1   0.013   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<27> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<27>)
-     XORCY:CI->O           1   0.262   0.350  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_xor<28> (XLXI_73/DataPath/U1_1/S<28>)
-     LUT4:I3->O           82   0.043   0.742  XLXI_73/DataPath/U1_1/MUX3281/Mmux_o212 (Addr_out<28>)
+     end scope: 'U1/Controller:ALU_Control<2>'
+     LUT6:I5->O            1   0.043   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_lut<0> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_lut<0>)
+     MUXCY:S->O            1   0.238   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<0> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<0>)
+     MUXCY:CI->O           1   0.013   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<1> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<1>)
+     MUXCY:CI->O           1   0.013   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<2> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<2>)
+     MUXCY:CI->O           1   0.013   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<3> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<3>)
+     MUXCY:CI->O           1   0.013   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<4> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<4>)
+     MUXCY:CI->O           1   0.013   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<5> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<5>)
+     MUXCY:CI->O           1   0.013   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<6> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<6>)
+     MUXCY:CI->O           1   0.013   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<7> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<7>)
+     MUXCY:CI->O           1   0.013   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<8> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<8>)
+     MUXCY:CI->O           1   0.013   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<9> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<9>)
+     MUXCY:CI->O           1   0.013   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<10> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<10>)
+     MUXCY:CI->O           1   0.013   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<11> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<11>)
+     MUXCY:CI->O           1   0.013   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<12> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<12>)
+     MUXCY:CI->O           1   0.013   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<13> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<13>)
+     MUXCY:CI->O           1   0.013   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<14> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<14>)
+     MUXCY:CI->O           1   0.013   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<15> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<15>)
+     MUXCY:CI->O           1   0.013   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<16> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<16>)
+     MUXCY:CI->O           1   0.013   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<17> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<17>)
+     MUXCY:CI->O           1   0.013   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<18> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<18>)
+     MUXCY:CI->O           1   0.013   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<19> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<19>)
+     MUXCY:CI->O           1   0.013   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<20> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<20>)
+     MUXCY:CI->O           1   0.013   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<21> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<21>)
+     MUXCY:CI->O           1   0.013   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<22> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<22>)
+     MUXCY:CI->O           1   0.013   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<23> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<23>)
+     MUXCY:CI->O           1   0.013   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<24> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<24>)
+     MUXCY:CI->O           1   0.013   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<25> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<25>)
+     MUXCY:CI->O           1   0.013   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<26> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<26>)
+     MUXCY:CI->O           1   0.013   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<27> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<27>)
+     XORCY:CI->O           1   0.262   0.350  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_xor<28> (U1/DataPath/U1_1/S<28>)
+     LUT4:I3->O           82   0.043   0.742  U1/DataPath/U1_1/MUX3281/Mmux_o212 (Addr_out<28>)
      begin scope: 'U4:addr_bus<28>'
      LUT5:I0->O           48   0.043   0.472  Mmux_GPIOe0000000_we11 (GPIOe0000000_we)
      end scope: 'U4:GPIOe0000000_we'
@@ -937,40 +937,40 @@ Delay:               2.221ns (Levels of Logic = 35)
     Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
     ----------------------------------------  ------------
      FDC:C->Q              4   0.236   0.367  U10/counter0_0 (U10/counter0_0)
-     LUT1:I0->O            1   0.043   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<0>_rt (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<0>_rt)
-     MUXCY:S->O            1   0.238   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<0> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<0>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<1> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<1>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<2> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<2>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<3> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<3>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<4> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<4>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<5> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<5>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<6> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<6>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<7> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<7>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<8> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<8>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<9> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<9>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<10> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<10>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<11> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<11>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<12> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<12>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<13> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<13>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<14> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<14>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<15> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<15>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<16> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<16>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<17> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<17>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<18> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<18>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<19> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<19>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<20> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<20>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<21> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<21>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<22> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<22>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<23> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<23>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<24> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<24>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<25> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<25>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<26> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<26>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<27> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<27>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<28> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<28>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<29> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<29>)
-     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<30> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<30>)
-     MUXCY:CI->O           0   0.013   0.000  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<31> (U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_cy<31>)
-     XORCY:CI->O           1   0.262   0.613  U10/Msub_counter0[32]_GND_14_o_sub_26_OUT_xor<32> (U10/counter0[32]_GND_14_o_sub_26_OUT<32>)
+     LUT1:I0->O            1   0.043   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<0>_rt (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<0>_rt)
+     MUXCY:S->O            1   0.238   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<0> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<0>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<1> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<1>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<2> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<2>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<3> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<3>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<4> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<4>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<5> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<5>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<6> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<6>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<7> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<7>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<8> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<8>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<9> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<9>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<10> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<10>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<11> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<11>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<12> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<12>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<13> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<13>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<14> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<14>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<15> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<15>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<16> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<16>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<17> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<17>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<18> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<18>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<19> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<19>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<20> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<20>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<21> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<21>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<22> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<22>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<23> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<23>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<24> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<24>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<25> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<25>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<26> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<26>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<27> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<27>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<28> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<28>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<29> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<29>)
+     MUXCY:CI->O           1   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<30> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<30>)
+     MUXCY:CI->O           0   0.013   0.000  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<31> (U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_cy<31>)
+     XORCY:CI->O           1   0.262   0.613  U10/Msub_counter0[32]_GND_36_o_sub_26_OUT_xor<32> (U10/counter0[32]_GND_36_o_sub_26_OUT<32>)
      LUT6:I0->O            1   0.043   0.000  U10/Mmux_counter_Ctrl[2]_counter0[32]_wide_mux_26_OUT262 (U10/counter_Ctrl[2]_counter0[32]_wide_mux_26_OUT<32>)
      FDC:D                    -0.000          U10/counter0_32
     ----------------------------------------
@@ -1184,62 +1184,62 @@ Timing constraint: Default OFFSET OUT AFTER for Clock 'Clk_CPU'
   Total number of paths / destination ports: 750695234 / 18
 -------------------------------------------------------------------------
 Offset:              12.575ns (Levels of Logic = 59)
-  Source:            XLXI_73/DataPath/PC/Q_10 (FF)
+  Source:            U1/DataPath/PC/Q_10 (FF)
   Destination:       SEGMENT<6> (PAD)
   Source Clock:      Clk_CPU rising
 
-  Data Path: XLXI_73/DataPath/PC/Q_10 to SEGMENT<6>
+  Data Path: U1/DataPath/PC/Q_10 to SEGMENT<6>
                                 Gate     Net
     Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
     ----------------------------------------  ------------
-     FDC:C->Q             59   0.236   0.630  XLXI_73/DataPath/PC/Q_10 (XLXI_73/DataPath/PC/Q_10)
+     FDC:C->Q             59   0.236   0.630  U1/DataPath/PC/Q_10 (U1/DataPath/PC/Q_10)
      begin scope: 'U2:a<8>'
      LUT3:I0->O            1   0.043   0.613  U0/xst_options.dist_mem_inst/gen_rom.rom_inst/Mram_spo_int72113_SW0 (N26)
      LUT6:I0->O            1   0.043   0.495  U0/xst_options.dist_mem_inst/gen_rom.rom_inst/Mram_spo_int72113 (U0/xst_options.dist_mem_inst/gen_rom.rom_inst/Mram_spo_int72112)
      LUT6:I3->O            6   0.043   0.433  U0/xst_options.dist_mem_inst/gen_rom.rom_inst/Mram_spo_int721113 (spo<27>)
      end scope: 'U2:spo<27>'
-     begin scope: 'XLXI_73/Controller:OPcode<1>'
-     begin scope: 'XLXI_73/Controller/XLXI_9:I4'
+     begin scope: 'U1/Controller:OPcode<1>'
+     begin scope: 'U1/Controller/XLXI_9:I4'
      LUT6:I4->O            7   0.043   0.373  O1 (O)
-     end scope: 'XLXI_73/Controller/XLXI_9:O'
+     end scope: 'U1/Controller/XLXI_9:O'
      BUF:I->O              3   0.054   0.615  XLXI_23 (ALUop1)
      AND2:I1->O            1   0.043   0.613  XLXI_24 (XLXN_255)
      OR2:I0->O            66   0.043   0.486  XLXI_26 (ALU_Control<2>)
-     end scope: 'XLXI_73/Controller:ALU_Control<2>'
-     LUT6:I5->O            1   0.043   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_lut<0> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_lut<0>)
-     MUXCY:S->O            1   0.238   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<0> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<0>)
-     MUXCY:CI->O           1   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<1> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<1>)
-     MUXCY:CI->O           1   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<2> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<2>)
-     MUXCY:CI->O           1   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<3> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<3>)
-     MUXCY:CI->O           1   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<4> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<4>)
-     MUXCY:CI->O           1   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<5> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<5>)
-     MUXCY:CI->O           1   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<6> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<6>)
-     MUXCY:CI->O           1   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<7> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<7>)
-     MUXCY:CI->O           1   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<8> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<8>)
-     MUXCY:CI->O           1   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<9> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<9>)
-     MUXCY:CI->O           1   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<10> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<10>)
-     MUXCY:CI->O           1   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<11> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<11>)
-     MUXCY:CI->O           1   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<12> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<12>)
-     MUXCY:CI->O           1   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<13> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<13>)
-     MUXCY:CI->O           1   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<14> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<14>)
-     MUXCY:CI->O           1   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<15> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<15>)
-     MUXCY:CI->O           1   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<16> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<16>)
-     MUXCY:CI->O           1   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<17> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<17>)
-     MUXCY:CI->O           1   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<18> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<18>)
-     MUXCY:CI->O           1   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<19> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<19>)
-     MUXCY:CI->O           1   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<20> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<20>)
-     MUXCY:CI->O           1   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<21> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<21>)
-     MUXCY:CI->O           1   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<22> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<22>)
-     MUXCY:CI->O           1   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<23> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<23>)
-     MUXCY:CI->O           1   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<24> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<24>)
-     MUXCY:CI->O           1   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<25> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<25>)
-     MUXCY:CI->O           1   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<26> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<26>)
-     MUXCY:CI->O           1   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<27> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<27>)
-     MUXCY:CI->O           1   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<28> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<28>)
-     MUXCY:CI->O           1   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<29> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<29>)
-     MUXCY:CI->O           0   0.014   0.000  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<30> (XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<30>)
-     XORCY:CI->O           2   0.262   0.355  XLXI_73/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_xor<31> (XLXI_73/DataPath/U1_1/S<31>)
-     LUT6:I5->O          114   0.043   0.748  XLXI_73/DataPath/U1_1/MUX3281/Mmux_o251 (Addr_out<31>)
+     end scope: 'U1/Controller:ALU_Control<2>'
+     LUT6:I5->O            1   0.043   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_lut<0> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_lut<0>)
+     MUXCY:S->O            1   0.238   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<0> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<0>)
+     MUXCY:CI->O           1   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<1> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<1>)
+     MUXCY:CI->O           1   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<2> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<2>)
+     MUXCY:CI->O           1   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<3> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<3>)
+     MUXCY:CI->O           1   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<4> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<4>)
+     MUXCY:CI->O           1   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<5> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<5>)
+     MUXCY:CI->O           1   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<6> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<6>)
+     MUXCY:CI->O           1   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<7> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<7>)
+     MUXCY:CI->O           1   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<8> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<8>)
+     MUXCY:CI->O           1   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<9> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<9>)
+     MUXCY:CI->O           1   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<10> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<10>)
+     MUXCY:CI->O           1   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<11> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<11>)
+     MUXCY:CI->O           1   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<12> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<12>)
+     MUXCY:CI->O           1   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<13> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<13>)
+     MUXCY:CI->O           1   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<14> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<14>)
+     MUXCY:CI->O           1   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<15> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<15>)
+     MUXCY:CI->O           1   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<16> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<16>)
+     MUXCY:CI->O           1   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<17> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<17>)
+     MUXCY:CI->O           1   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<18> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<18>)
+     MUXCY:CI->O           1   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<19> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<19>)
+     MUXCY:CI->O           1   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<20> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<20>)
+     MUXCY:CI->O           1   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<21> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<21>)
+     MUXCY:CI->O           1   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<22> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<22>)
+     MUXCY:CI->O           1   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<23> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<23>)
+     MUXCY:CI->O           1   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<24> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<24>)
+     MUXCY:CI->O           1   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<25> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<25>)
+     MUXCY:CI->O           1   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<26> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<26>)
+     MUXCY:CI->O           1   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<27> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<27>)
+     MUXCY:CI->O           1   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<28> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<28>)
+     MUXCY:CI->O           1   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<29> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<29>)
+     MUXCY:CI->O           0   0.014   0.000  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<30> (U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_cy<30>)
+     XORCY:CI->O           2   0.262   0.355  U1/DataPath/U1_1/M0/MADC32/Madd_n0004_Madd_xor<31> (U1/DataPath/U1_1/S<31>)
+     LUT6:I5->O          114   0.043   0.748  U1/DataPath/U1_1/MUX3281/Mmux_o251 (Addr_out<31>)
      begin scope: 'U4:addr_bus<31>'
      LUT5:I0->O           32   0.043   0.743  Mmux_data_ram_rd11 (data_ram_rd)
      LUT6:I0->O           32   0.043   0.652  Mmux_Cpu_data4bus171 (Cpu_data4bus<24>)
@@ -1425,12 +1425,12 @@ clk200P        |    0.839|         |         |         |
 =========================================================================
 
 
-Total REAL time to Xst completion: 39.00 secs
-Total CPU time to Xst completion: 39.48 secs
+Total REAL time to Xst completion: 14.00 secs
+Total CPU time to Xst completion: 13.69 secs
  
 --> 
 
-Total memory usage is 4686856 kilobytes
+Total memory usage is 4655648 kilobytes
 
 Number of errors   :    0 (   0 filtered)
 Number of warnings :   97 (   0 filtered)

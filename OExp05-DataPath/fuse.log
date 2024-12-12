@@ -1,0 +1,92 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o C:/Users/SCUOP/Desktop/project/OExp05-DataPath/OExp05_DataPath_isim_beh.exe -prj C:/Users/SCUOP/Desktop/project/OExp05-DataPath/OExp05_DataPath_beh.prj work.OExp05_DataPath work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 8
+Turning on mult-threading, number of parallel sub-compilation jobs: 16 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/common/xor32.v" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/common/addc_32.v" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/MUX/MUX8T1_32.v" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/common/srl32.v" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/common/or_bit_32 .v" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/common/or32.v" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/common/nor32.v" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/common/and32.v" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/ABC32.vf" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/MUX/MUX2T1_5.v" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/MUX/MUX2T1_32.v" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/CPU/Regs.v" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/CPU/REG32.v" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/alu.vf" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/common/Ext_imm16.v" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/common/add_32.v" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/SDPath.vf" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/IO/port/LED_P2S_IO.v" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/CPU/Controller.v" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/ipcore_dir/ROM_D.v" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/ipcore_dir/RAM_B.v" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/IO/port/SEnter_2_32_IO.v" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/IO/port/Seg7_Dev_IO.v" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/IO/port/SAnti_jitter_IO.v" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/IO/port/PIO_IO.v" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/IO/port/Multi_8CH32_IO.v" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/IO/port/MIO_BUS_IO.v" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/IO/port/Display_IO.v" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/IO/port/Counter_3_IO.v" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/IO/GPIO.v" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/IO/clk_div.v" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/SCPU.vf" into library work
+Analyzing Verilog file "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/OExp05_DataPath.vf" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:1016 - "C:/Users/SCUOP/Desktop/project/OExp05-DataPath/SCPU.vf" Line 173: Port Co is not connected to this instance
+Completed static elaboration
+Compiling module SEnter_2_32
+Compiling module SCtrl
+Compiling module add_32
+Compiling module Ext_32
+Compiling module MUX2T1_5
+Compiling module MUX2T1_32
+Compiling module GND
+Compiling module REG32
+Compiling module and32
+Compiling module or32
+Compiling module xor32
+Compiling module nor32
+Compiling module srl32
+Compiling module or_bit_32
+Compiling module MUX8T1_32
+Compiling module ADC32
+Compiling module ABC32
+Compiling module alu_MUSER_SCPU
+Compiling module Regs
+Compiling module VCC
+Compiling module AND2
+Compiling module SDPath_MUSER_SCPU
+Compiling module SCPU
+Compiling module DIST_MEM_GEN_V7_2(C_FAMILY="kint...
+Compiling module ROM_D
+Compiling module BLK_MEM_GEN_V7_3_output_stage(C_...
+Compiling module BLK_MEM_GEN_V7_3_softecc_output_...
+Compiling module BLK_MEM_GEN_V7_3_mem_module(C_CO...
+Compiling module BLK_MEM_GEN_V7_3(C_FAMILY="kinte...
+Compiling module RAM_B
+Compiling module MIO_BUS
+Compiling module Multi_8CH32
+Compiling module Display
+Compiling module LEDP2S
+Compiling module GPIO
+Compiling module IBUFDS
+Compiling module clk_div
+Compiling module SAnti_jitter
+Compiling module Counter
+Compiling module Seg7_Dev
+Compiling module PIO
+Compiling module INV
+Compiling module OExp05_DataPath
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 29 sub-compilation(s) to finish...
+Compiled 44 Verilog Units
+Built simulation executable C:/Users/SCUOP/Desktop/project/OExp05-DataPath/OExp05_DataPath_isim_beh.exe
+Fuse Memory Usage: 34284 KB
+Fuse CPU Usage: 1718 ms

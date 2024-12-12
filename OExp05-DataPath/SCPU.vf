@@ -7,11 +7,11 @@
 // \   \   \/     Version : 14.7
 //  \   \         Application : sch2hdl
 //  /   /         Filename : SCPU.vf
-// /___/   /\     Timestamp : 12/11/2024 14:38:14
+// /___/   /\     Timestamp : 12/12/2024 14:49:31
 // \   \  /  \ 
 //  \___\/\___\ 
 //
-//Command: sch2hdl -sympath C:/Xilink_Project/OExp05-DataPath/Code/CPU -sympath C:/Xilink_Project/OExp05-DataPath/Code/IO -sympath C:/Xilink_Project/OExp05-DataPath/ipcore_dir -intstyle ise -family kintex7 -verilog C:/Xilink_Project/OExp05-DataPath/SCPU.vf -w C:/Xilink_Project/OExp05-DataPath/Code/CPU/SCPU.sch
+//Command: sch2hdl -sympath C:/SCU/SCU-Xilink_Projects/OExp05-DataPath/Code/CPU -sympath C:/SCU/SCU-Xilink_Projects/OExp05-DataPath/Code/IO -sympath C:/SCU/SCU-Xilink_Projects/OExp05-DataPath/ipcore_dir -intstyle ise -family kintex7 -verilog C:/SCU/SCU-Xilink_Projects/OExp05-DataPath/SCPU.vf -w C:/SCU/SCU-Xilink_Projects/OExp05-DataPath/Code/CPU/SCPU.sch
 //Design Name: SCPU
 //Device: kintex7
 //Purpose:
@@ -242,8 +242,8 @@ module SCPU(clk,
                                .clk(clk), 
                                .Data_in(Data_in[31:0]), 
                                .inst_field(inst_in[25:0]), 
-                               .Jump(XLXN_4), 
-                               .MemtoReg(XLXN_5), 
+                               .Jump(XLXN_5), 
+                               .MemtoReg(XLXN_4), 
                                .RegDst(XLXN_2), 
                                .RegWrite(XLXN_8), 
                                .rst(reset), 

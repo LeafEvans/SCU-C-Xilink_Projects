@@ -473,7 +473,7 @@
             <blockpin signalname="LED(7:0)" name="LED_out(7:0)" />
             <blockpin name="counter_set(1:0)" />
         </block>
-        <block symbolname="SCPU" name="XLXI_73">
+        <block symbolname="SCPU" name="U1">
             <blockpin signalname="Clk_CPU" name="clk" />
             <blockpin signalname="rst" name="reset" />
             <blockpin signalname="inst(31:0)" name="inst_in(31:0)" />
@@ -828,27 +828,33 @@
             <wire x2="2768" y1="1616" y2="1616" x1="2400" />
         </branch>
         <branch name="XLXN_544">
-            <wire x2="1664" y1="1216" y2="1216" x1="1136" />
+            <wire x2="1200" y1="1216" y2="1216" x1="1168" />
+            <wire x2="1664" y1="1216" y2="1216" x1="1200" />
         </branch>
         <branch name="Addr_out(31:0)">
             <attrtext style="alignment:SOFT-BCENTER;fontsize:28;fontname:Arial;textcolor:rgb(255,0,0)" attrname="Name" x="1328" y="1280" type="branch" />
-            <wire x2="1328" y1="1280" y2="1280" x1="1136" />
+            <wire x2="1200" y1="1280" y2="1280" x1="1168" />
+            <wire x2="1328" y1="1280" y2="1280" x1="1200" />
             <wire x2="1664" y1="1280" y2="1280" x1="1328" />
         </branch>
         <branch name="Data_in(31:0)">
             <attrtext style="alignment:SOFT-BCENTER;fontsize:28;fontname:Arial;textcolor:rgb(255,0,0)" attrname="Name" x="1312" y="1344" type="branch" />
-            <wire x2="1312" y1="1344" y2="1344" x1="1136" />
+            <wire x2="1200" y1="1344" y2="1344" x1="1168" />
+            <wire x2="1312" y1="1344" y2="1344" x1="1200" />
             <wire x2="1664" y1="1344" y2="1344" x1="1312" />
         </branch>
         <branch name="Data_out(31:0)">
             <attrtext style="alignment:SOFT-BCENTER;fontsize:28;fontname:Arial;textcolor:rgb(255,0,0)" attrname="Name" x="1312" y="1408" type="branch" />
-            <wire x2="1312" y1="1408" y2="1408" x1="1136" />
+            <wire x2="1200" y1="1408" y2="1408" x1="1168" />
+            <wire x2="1312" y1="1408" y2="1408" x1="1200" />
             <wire x2="1664" y1="1408" y2="1408" x1="1312" />
         </branch>
         <branch name="rst">
             <attrtext style="alignment:SOFT-BCENTER;fontsize:28;fontname:Arial" attrname="Name" x="1200" y="320" type="branch" />
             <wire x2="640" y1="736" y2="1248" x1="640" />
-            <wire x2="688" y1="1248" y2="1248" x1="640" />
+            <wire x2="672" y1="1248" y2="1248" x1="640" />
+            <wire x2="688" y1="1248" y2="1248" x1="672" />
+            <wire x2="720" y1="1248" y2="1248" x1="688" />
             <wire x2="848" y1="736" y2="736" x1="640" />
             <wire x2="1600" y1="736" y2="736" x1="848" />
             <wire x2="2720" y1="736" y2="736" x1="1600" />
@@ -894,6 +900,7 @@
             <attrtext style="alignment:SOFT-RIGHT;fontsize:28;fontname:Arial;textcolor:rgb(255,0,0)" attrname="Name" x="560" y="1328" type="branch" />
             <wire x2="592" y1="1328" y2="1328" x1="560" />
             <wire x2="688" y1="1328" y2="1328" x1="592" />
+            <wire x2="720" y1="1328" y2="1328" x1="688" />
             <wire x2="592" y1="1328" y2="1744" x1="592" />
             <wire x2="1136" y1="1744" y2="1744" x1="592" />
             <wire x2="1136" y1="1744" y2="1952" x1="1136" />
@@ -943,6 +950,7 @@
         </branch>
         <branch name="XLXN_579">
             <wire x2="688" y1="1488" y2="1488" x1="624" />
+            <wire x2="720" y1="1488" y2="1488" x1="688" />
             <wire x2="624" y1="1488" y2="1792" x1="624" />
             <wire x2="2208" y1="1792" y2="1792" x1="624" />
             <wire x2="2208" y1="1792" y2="1984" x1="2208" />
@@ -967,6 +975,7 @@
             <wire x2="480" y1="1600" y2="1600" x1="432" />
             <wire x2="480" y1="1600" y2="1952" x1="480" />
             <wire x2="688" y1="1600" y2="1600" x1="480" />
+            <wire x2="720" y1="1600" y2="1600" x1="688" />
         </branch>
         <branch name="blink(7:0)">
             <attrtext style="alignment:SOFT-LEFT;fontsize:28;fontname:Arial" attrname="Name" x="2064" y="288" type="branch" />
@@ -1060,6 +1069,7 @@
             <attrtext style="alignment:SOFT-BCENTER;fontsize:24;fontname:Arial;textcolor:rgb(255,0,0)" attrname="Name" x="1360" y="592" type="branch" />
             <wire x2="672" y1="1072" y2="1200" x1="672" />
             <wire x2="688" y1="1200" y2="1200" x1="672" />
+            <wire x2="720" y1="1200" y2="1200" x1="688" />
             <wire x2="1216" y1="1072" y2="1072" x1="672" />
             <wire x2="1216" y1="592" y2="592" x1="1168" />
             <wire x2="1216" y1="592" y2="1072" x1="1216" />
@@ -1088,9 +1098,9 @@
         </instance>
         <iomarker fontsize="28" x="176" y="640" name="clk200N" orien="R180" />
         <iomarker fontsize="28" x="176" y="576" name="clk200P" orien="R180" />
-        <instance x="736" y="1712" name="XLXI_73" orien="R0">
+        <instance x="768" y="1712" name="U1" orien="R0">
         </instance>
-        <text style="fontsize:100;fontname:Times New Roman;textcolor:rgb(128,0,0)" x="320" y="2612">2023141460166 LeafEvans</text>
+        <text style="fontsize:120;fontname:Times New Roman;textcolor:rgb(255,0,0)" x="228" y="2612">LeafEvans 2023141460166</text>
     </sheet>
     <sheet sheetnum="2" width="1760" height="1360">
         <branch name="SEGMENT(7:0)">

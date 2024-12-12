@@ -1,0 +1,1 @@
+sch2hdl -sympath C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/CPU -sympath C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/IO -sympath C:/Users/SCUOP/Desktop/project/OExp05-DataPath/ipcore_dir -intstyle ise -family kintex7 -verilog SCPU_drc.vf -w C:/Users/SCUOP/Desktop/project/OExp05-DataPath/Code/CPU/SCPU.sch 
