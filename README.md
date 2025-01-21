@@ -53,23 +53,23 @@
 
 ```
 SCU-ComputerOrganization-Exp/
-├── adder_4bits/                 # 实验一：4位加法器
-│   ├── src/                     # 源代码
+├── adder_4bits/                # 实验一：4位加法器
+│   ├── src/                    # 源代码
 │   │   ├── adder_1bit.v        # 1位全加器
 │   │   └── adder_4bits.v       # 4位加法器顶层模块
 │   ├── testbench/              # 测试文件
 │   │   └── adder_4bits_tb.v    # 测试台
 │   └── adder_4bits.xise        # 工程文件
 │
-├── mux/                         # 实验二：多路选择器
-│   ├── src/                     # 源代码
+├── mux/                        # 实验二：多路选择器
+│   ├── src/                    # 源代码
 │   │   ├── MUX2T1_32.v         # 2选1多路选择器(32位)
 │   │   ├── MUX2T1_5.v          # 2选1多路选择器(5位)
 │   │   └── MUX8T1_32.v         # 8选1多路选择器(32位)
 │   └── mux.xise                # 工程文件
 │
-├── Sseg7/                       # 实验三：七段数码管显示
-│   ├── src/                     # 源代码
+├── Sseg7/                      # 实验三：七段数码管显示
+│   ├── src/                    # 源代码
 │   │   ├── SSeg_map.v          # 段码映射
 │   │   ├── P2S_IO.v            # 并串转换
 │   │   ├── HexTo8SEG.v         # 16进制转8段码
@@ -77,7 +77,7 @@ SCU-ComputerOrganization-Exp/
 │   └── Sseg7.xise              # 工程文件
 │
 ├── OExp03-IP2SOC/              # 实验四：IP核系统设计
-│   ├── src/                     # 源代码
+│   ├── src/                    # 源代码
 │   │   ├── CPU/                # CPU相关模块
 │   │   │   ├── SCPU.v          # 简单CPU实现
 │   │   │   └── Controller.v    # 控制器
@@ -91,7 +91,7 @@ SCU-ComputerOrganization-Exp/
 │   └── OExp03-IP2SOC.xise      # 工程文件
 │
 └── OExp05-DataPath/            # 实验五：数据通路设计
-    ├── src/                     # 源代码
+    ├── src/                    # 源代码
     │   ├── CPU/                # CPU模块
     │   │   ├── REG32.v         # 32位寄存器
     │   │   ├── Regs.v          # 寄存器组
